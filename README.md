@@ -221,3 +221,69 @@
 - **🏫 单位**：Seoul National University
 - **🔗 链接**：[[中英摘要](./abs/2404.14410.md)] [[arXiv:2404.14410](https://arxiv.org/abs/2404.14410)] [Code]
 - **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [18] STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians
+- **🧑‍🔬 作者**：Yifei Zeng, Yanqin Jiang, Siyu Zhu, Yuanxun Lu, Youtian Lin, Hao Zhu, Weiming Hu, Xun Cao, Yao Yao
+- **🏫 单位**：Nanjing University ⟐ Institution of Automation, Chinese Academy of Science ⟐ Fudan University
+- **🔗 链接**：[[中英摘要](./abs/2403.14939.md)] [[arXiv:2403.14939](https://arxiv.org/abs/2403.14939)] [[Code](https://github.com/zeng-yifei/STAG4D)]
+- **📝 说明**：🏆 Accepted to ECCV 2024
+
+#### [23] Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Jeongmin Bae, Seoha Kim, Youngsik Yun, Hahyun Lee, Gun Bang, Youngjung Uh
+- **🏫 单位**：Yonsei University ⟐ Electronics and Telecommunications Research Institute
+- **🔗 链接**：[[中英摘要](./abs/2404.03613.md)] [[arXiv:2404.03613](https://arxiv.org/abs/2404.03613)] [[Code](https://github.com/JeongminB/E-D3DGS)]
+- **📝 说明**：🏆 Accepted to ECCV 2024
+
+#### [32] Topo4D: Topology-Preserving Gaussian Splatting for High-Fidelity 4D Head Capture
+- **🧑‍🔬 作者**：X. Li, Y. Cheng, X. Ren, H. Jia, D. Xu, W. Zhu, Y. Yan
+- **🏫 单位**：Shanghai Jiao Tong University ⟐ Huawei Cloud Computing Technologies Co., Ltd
+- **🔗 链接**：[[中英摘要](./abs/2406.00440.md)] [[arXiv:2406.00440](https://arxiv.org/abs/2406.00440)] [Code]
+- **📝 说明**：🏆 Accepted to ECCV 2024
+
+#### [40] iHuman: Instant Animatable Digital Humans From Monocular Videos
+- **🧑‍🔬 作者**：Pramish Paudel, Anubhav Khanal, Ajad Chhatkuli, Danda Pani Paudel, Jyoti Tandukar
+- **🏫 单位**：Tribhuvan University, Lalitpur, Nepal ⟐ ETH Zürich ⟐ NAAMI, Kathmandu ⟐ INSAIT, Sofia
+- **🔗 链接**：[[中英摘要](./abs/2407.11174.md)] [[arXiv:2407.11174](https://arxiv.org/abs/2407.11174)] [Code]
+- **📝 说明**：🏆 Accepted to ECCV 2024
+
+#### [2] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting
+- **🧑‍🔬 作者**：Zeyu Yang, Hongye Yang, Zijie Pan, Xiatian Zhu, Li Zhang
+- **🏫 单位**：Fudan University ⟐ University of Surrey
+- **🔗 链接**：[[中英摘要](./abs/2310.10642.md)] [[arXiv:2310.10642](https://arxiv.org/abs/2310.10642)] [[OpenReview](https://openreview.net/forum?id=WhgB5sispV)] [[Code](https://github.com/fudan-zvg/4d-gaussian-splatting)]
+- **📝 说明**：🏆 ICLR 2024 poster; 🌟 OpenReview Ratings: 8, 6, 6;优化一组4D原语
+
+#### [3] Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction
+- **🧑‍🔬 作者**：Diwen Wan, Ruijie Lu, Gang Zeng
+- **🏫 单位**：Peking University
+- **🔗 链接**：[[中英摘要](./abs/2406.03697.md)] [[arXiv:2406.03697](https://arxiv.org/abs/2406.03697)] [Code]
+- **📝 说明**：🏆 Accepted to ICML 2024
+
+#### [1] Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting
+- **🧑‍🔬 作者**：Shuojue Yang, Qian Li, Daiyun Shen, Bingchen Gong, Qi Dou, Yueming Jin
+- **🏫 单位**： National University of Singapore ⟐ Tsinghua University ⟐ The Chinese University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2405.17835.md)] [[arXiv:2405.17835](https://arxiv.org/abs/2405.17835)] [[Code](https://github.com/jinlab-imvr/Deform3DGS)]
+- **📝 说明**：🏆 Accepted to MICCAI 2024
+
+#### [2] LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction
+- **🧑‍🔬 作者**：Hengyu Liu, Yifan Liu, Chenxin Li, Wuyang Li, Yixuan Yuan
+- **🏫 单位**：The Chinese University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2406.16073.md)] [[arXiv:2406.16073](https://arxiv.org/abs/2406.16073)] [[Code](https://github.com/CUHK-AIM-Group/LGS)]
+- **📝 说明**：🏆 Accepted by MICCAI 2024
+
+#### [4] LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer
+- **🧑‍🔬 作者**：Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu
+- **🏫 单位**：Tsinghua University ⟐ NNKosmos Technology ⟐ Beijing Normal University
+- **🔗 链接**：[[中英摘要](./abs/2405.07319.md)] [[arXiv:2405.07319](https://arxiv.org/abs/2405.07319)] [Code]
+- **📝 说明**：🏆 Accepted to SIGGRAPH 2024
+
+#### [5] GaussianPrediction: Dynamic 3D Gaussian Prediction for Motion Extrapolation and Free View Synthesis
+- **🧑‍🔬 作者**：Boming Zhao, Yuan Li, Ziyu Sun, Lin Zeng, Yujun Shen, Rui Ma, Yinda Zhang, Hujun Bao, Zhaopeng Cui
+- **🏫 单位**：Zhejiang University ⟐ Jilin University ⟐ Ant Group ⟐ Google Inc.
+- **🔗 链接**：[[中英摘要](./abs/2405.19745.md)] [[arXiv:2405.19745](https://arxiv.org/abs/2405.19745)] [[Code](https://github.com/BoMingZhao/GaussianPrediction)]
+- **📝 说明**：🏆 Accepted to SIGGRAPH 2024
+
+#### [1] Dynamic Gaussian Splatting from Markerless Motion Capture can Reconstruct Infants Movements
+- **🧑‍🔬 作者**：R. James Cotton, Colleen Peyton
+- **🏫 单位**：Shirley Ryan AbilityLab ⟐ Northwestern University
+- **🔗 链接**：[[中英摘要](./abs/2310.19441.md)] [[arXiv:2310.19441](https://arxiv.org/abs/2310.19441)] [Code]
+- **📝 说明**：🏆 Accepted to WACV 2024 Workshop
