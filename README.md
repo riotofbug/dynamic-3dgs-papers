@@ -101,3 +101,123 @@
 - **🏫 单位**：City University of Hong kong ⟐ The University of Hong kong ⟐ Texas A&M University, U.S.A
 - **🔗 链接**：[[中英摘要](./abs/2406.00434.md)] [[arXiv:2406.00434](https://arxiv.org/abs/2406.00434)] [Code]
 - **📝 说明**：使用随意捕获的单目视频;单视图深度估计方法
+
+#### [1] Dynamic 3d gaussians: Tracking by persistent dynamic view synthesis
+- **🧑‍🔬 作者**：Jonathon Luiten, Georgios Kopanas, Bastian Leibe, Deva Ramanan
+- **🏫 单位**：Carnegie Mellon University ⟐ RWTH Aachen University ⟐ Inria & Universite C´ ote d’Azur
+- **🔗 链接**：[[中英摘要](./abs/2308.09713.md)] [[arXiv:2308.09713](https://arxiv.org/abs/2308.09713)] [[Code](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
+- **📝 说明**：🏆 Accepted to 3DV 2024 允许高斯分布随时间移动和旋转
+
+#### [1] Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction
+- **🧑‍🔬 作者**：Ziyi Yang, Xinyu Gao, Wen Zhou, Shaohui Jiao, Yuqing Zhang, Xiaogang Jin
+- **🏫 单位**： Zhejiang University ⟐ ByteDance Inc.
+- **🔗 链接**：[[中英摘要](./abs/2309.13101.md)] [[arXiv:2309.13101](https://arxiv.org/abs/2309.13101)] [[Code](https://github.com/ingra14m/Deformable-3D-Gaussians)]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [3] 4d gaussian splatting for real-time dynamic scene rendering
+- **🧑‍🔬 作者**：Guanjun Wu, Taoran Yi, Jiemin Fang, Lingxi Xie, Xiaopeng Zhang, Wei Wei, Wenyu Liu, Qi Tian, Xinggang Wang
+- **🏫 单位**：Huazhong University of Science and Technology ⟐ Huawei Inc.
+- **🔗 链接**：[[中英摘要](./abs/2310.08528.md)] [[arXiv:2310.08528](https://arxiv.org/abs/2310.08528)] [[Code](https://github.com/hustvl/4DGaussians)]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [12] Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling
+- **🧑‍🔬 作者**：Zhe Li, Zerong Zheng, Lizhen Wang, Yebin Liu
+- **🏫 单位**：Tsinghua University ⟐ NNKosmos Technology
+- **🔗 链接**：[[中英摘要](./abs/2311.16096.md)] [[arXiv:2311.16096](https://arxiv.org/abs/2311.16096)] [[Code](https://github.com/lizhe00/AnimatableGaussians)]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [18] Human Gaussian Splatting: Real-time Rendering of Animatable Avatars
+- **🧑‍🔬 作者**：Arthur Moreau, Jifei Song, Helisa Dhamo, Richard Shaw, Yiren Zhou, Eduardo Pérez-Pellitero
+- **🏫 单位**：Huawei Noah’s Ark Lab
+- **🔗 链接**：[[中英摘要](./abs/2311.17113.md)] [[arXiv:2311.17113](https://arxiv.org/abs/2311.17113)] [Code]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [27] GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians
+- **🧑‍🔬 作者**：Liangxiao Hu, Hongwen Zhang, Yuxiang Zhang, Boyao Zhou, Boning Liu, Shengping Zhang, Liqiang Nie
+- **🏫 单位**：Harbin Institute of Technology ⟐ Beijing Normal University ⟐  Tsinghua University
+- **🔗 链接**：[[中英摘要](./abs/2312.02134.md)] [[arXiv:2312.02134](https://arxiv.org/abs/2312.02134)] [[Code](https://github.com/huliangxiao/GaussianAvatar)]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [29] GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis
+- **🧑‍🔬 作者**：Shunyuan Zheng, Boyao Zhou, Ruizhi Shao, Boning Liu, Shengping Zhang, Liqiang Nie, Yebin Liu
+- **🏫 单位**：Harbin Institute of Technology ⟐ Tsinghua University
+- **🔗 链接**：[[中英摘要](./abs/2312.02155.md)] [[arXiv:2312.02155](https://arxiv.org/abs/2312.02155)] [[Code](https://github.com/ShunyuanZheng/GPS-Gaussian)]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [31] Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians
+- **🧑‍🔬 作者**：Yuelang Xu, Benwang Chen, Zhe Li, Hongwen Zhang, Lizhen Wang, Zerong Zheng, Yebin Liu
+- **🏫 单位**：Tsinghua University ⟐ NNKosmos
+- **🔗 链接**：[[中英摘要](./abs/2312.03029.md)] [[arXiv:2312.03029](https://arxiv.org/abs/2312.03029)] [[Code](https://github.com/YuelangX/Gaussian-Head-Avatar)]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [33] Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle
+- **🧑‍🔬 作者**：Youtian Lin, Zuozhuo Dai, Siyu Zhu, Yao Yao
+- **🏫 单位**：Nanjing University ⟐ Alibaba Group ⟐ Fudan University
+- **🔗 链接**：[[中英摘要](./abs/2312.03431.md)] [[arXiv:2312.03431](https://arxiv.org/abs/2312.03431)] [Code]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [34] HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting
+- **🧑‍🔬 作者**：Yuheng Jiang, Zhehao Shen, Penghao Wang, Zhuo Su, Yu Hong, Yingliang Zhang, Jingyi Yu, Lan Xu
+- **🏫 单位**：ShanghaiTech University ⟐ NeuDim ⟐ ByteDance ⟐ DGene
+- **🔗 链接**：[[中英摘要](./abs/2312.03461.md)] [[arXiv:2312.03461](https://arxiv.org/abs/2312.03461)] [Code]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [37] ASH: Animatable Gaussian Splats for Efficient and Photoreal Human Rendering
+- **🧑‍🔬 作者**：Haokai Pang, Heming Zhu, Adam Kortylewski, Christian Theobalt, Marc Habermann
+- **🏫 单位**：Max Planck Institute for Informatics ⟐ ETH Zurich ⟐  Universitat Freiburg ⟐ Saarbrucken Research Center for Visual Computing, Interaction and AI
+- **🔗 链接**：[[中英摘要](./abs/2312.05941.md)] [[arXiv:2312.05941](https://arxiv.org/abs/2312.05941)] [[Code](https://github.com/kv2000/ASH)]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [40] DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes
+- **🧑‍🔬 作者**：Xiaoyu Zhou, Zhiwei Lin, Xiaojun Shan, Yongtao Wang, Deqing Sun, Ming-Hsuan Yang
+- **🏫 单位**：Peking University ⟐ Google Research ⟐ University of California, Merced
+- **🔗 链接**：[[中英摘要](./abs/2312.07920.md)] [[arXiv:2312.07920](https://arxiv.org/abs/2312.07920)] [[Code](https://github.com/VDIGPKU/DrivingGaussian)]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [42] 3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Zhiyin Qian, Shaofei Wang, Marko Mihajlovic, Andreas Geiger, Siyu Tang
+- **🏫 单位**：ETH Zürich ⟐ University of Tübingen ⟐ Tübingen AI Center
+- **🔗 链接**：[[中英摘要](./abs/2312.09228.md)] [[arXiv:2312.09228](https://arxiv.org/abs/2312.09228)] [[Code](https://github.com/mikeqzy/3dgs-avatar-release)]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [43] GAvatar: Animatable 3D Gaussian Avatars with Implicit Mesh Learning
+- **🧑‍🔬 作者**：Ye Yuan, Xueting Li, Yangyi Huang, Shalini De Mello, Koki Nagano, Jan Kautz, Umar Iqbal
+- **🏫 单位**：NVIDIA
+- **🔗 链接**：[[中英摘要](./abs/2312.11461.md)] [[arXiv:2312.11461](https://arxiv.org/abs/2312.11461)] [Code]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [48] SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes
+- **🧑‍🔬 作者**：Yi-Hua Huang, Yang-Tian Sun, Ziyi Yang, Xiaoyang Lyu, Yan-Pei Cao, Xiaojuan Qi
+- **🏫 单位**：The University of Hong Kong ⟐ VAST ⟐ Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2312.14937.md)] [[arXiv:2312.14937](https://arxiv.org/abs/2312.14937)] [[Code](https://github.com/yihua7/SC-GS)]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [50] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis
+- **🧑‍🔬 作者**：Zhan Li, Zhang Chen, Zhong Li, Yi Xu
+- **🏫 单位**：OPPO US Research Center ⟐ Portland State University
+- **🔗 链接**：[[中英摘要](./abs/2312.16812.md)] [[arXiv:2312.16812](https://arxiv.org/abs/2312.16812)] [[Code](https://github.com/oppo-us-research/SpacetimeGaussians)]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [55] 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos
+- **🧑‍🔬 作者**：Jiakai Sun, Han Jiao, Guangyuan Li, Zhanjie Zhang, Lei Zhao, Wei Xing
+- **🏫 单位**：Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2403.01444.md)] [[arXiv:2403.01444](https://arxiv.org/abs/2403.01444)] [[Code](https://github.com/SJoJoK/3DGStream)]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [60] 3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis
+- **🧑‍🔬 作者**：Zhicheng Lu, Xiang Guo, Le Hui, Tianrui Chen, Min Yang, Xiao Tang, Feng Zhu, Yuchao Dai
+- **🏫 单位**：Northwestern Polytechnical University ⟐ Samsung R&D Institute
+- **🔗 链接**：[[中英摘要](./abs/2404.06270.md)] [[arXiv:2404.06270](https://arxiv.org/abs/2404.06270)] [Code]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [61] GoMAvatar: Efficient Animatable Human Modeling from Monocular Video Using Gaussians-on-Mesh
+- **🧑‍🔬 作者**：Jing Wen, Xiaoming Zhao, Zhongzheng Ren, Alexander G. Schwing, Shenlong Wang
+- **🏫 单位**：University of Illinois at Urbana-Champaign
+- **🔗 链接**：[[中英摘要](./abs/2404.07991.md)] [[arXiv:2404.07991](https://arxiv.org/abs/2404.07991)] [[Code](https://github.com/wenj/GoMAvatar)]
+- **📝 说明**：🏆 Accepted to CVPR 2024
+
+#### [63] Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses
+- **🧑‍🔬 作者**：Inhee Lee, Byungjun Kim, Hanbyul Joo
+- **🏫 单位**：Seoul National University
+- **🔗 链接**：[[中英摘要](./abs/2404.14410.md)] [[arXiv:2404.14410](https://arxiv.org/abs/2404.14410)] [Code]
+- **📝 说明**：🏆 Accepted to CVPR 2024
