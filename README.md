@@ -102,6 +102,284 @@
 - **🔗 链接**：[[中英摘要](./abs/2406.00434.md)] [[arXiv:2406.00434](https://arxiv.org/abs/2406.00434)] [Code]
 - **📝 说明**：使用随意捕获的单目视频;单视图深度估计方法
 
+#### [247] Object-centric Reconstruction and Tracking of Dynamic Unknown Objects using 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Kuldeep R Barad, Antoine Richard, Jan Dentler, Miguel Olivares-Mendez, Carol Martinez
+- **🏫 单位**：University of Luxembourg ⟐ Redwire Space Europe
+- **🔗 链接**：[[中英摘要](./abs/2405.20104.md)] [[arXiv:2405.20104](https://arxiv.org/abs/2405.20104)] [Code]
+- **📝 说明**：🏆 Accepted to iSpaRo 2024
+
+#### [246] PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting
+- **🧑‍🔬 作者**：Qiaowei Miao, Yawei Luo, Yi Yang
+- **🏫 单位**：Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2405.19957.md)] [[arXiv:2405.19957](https://arxiv.org/abs/2405.19957)] [Code]
+- **📝 说明**：
+
+#### [241] DGD: Dynamic 3D Gaussians Distillation
+- **🧑‍🔬 作者**：Isaac Labe, Noam Issachar, Itai Lang, Sagie Benaim
+- **🏫 单位**：The Hebrew University of Jerusalem ⟐ University of Chicago
+- **🔗 链接**：[[中英摘要](./abs/2405.19321.md)] [[arXiv:2405.19321](https://arxiv.org/abs/2405.19321)] [[Code](https://github.com/Isaaclabe/DGD-Dynamic-3D-Gaussians-Distillation)]
+- **📝 说明**：
+
+#### [238] GFlow: Recovering 4D World from Monocular Video
+- **🧑‍🔬 作者**：Shizun Wang, Xingyi Yang, Qiuhong Shen, Zhenxiang Jiang, Xinchao Wang
+- **🏫 单位**：National University of Singapore
+- **🔗 链接**：[[中英摘要](./abs/2405.18426.md)] [[arXiv:2405.18426](https://arxiv.org/abs/2405.18426)] [Code]
+- **📝 说明**：
+
+#### [233] EG4D: Explicit Generation of 4D Object without Score Distillation
+- **🧑‍🔬 作者**：Qi Sun, Zhiyang Guo, Ziyu Wan, Jing Nathan Yan, Shengming Yin, Wengang Zhou, Jing Liao, Houqiang Li
+- **🏫 单位**：USTC ⟐ City University of Hong Kong ⟐ Cornell University
+- **🔗 链接**：[[中英摘要](./abs/2405.18132.md)] [[arXiv:2405.18132](https://arxiv.org/abs/2405.18132)] [[Code](https://github.com/jasongzy/EG4D)]
+- **📝 说明**：
+
+#### [230] A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction
+- **🧑‍🔬 作者**：Bin Zhang, Bi Zeng, Zexin Peng
+- **🏫 单位**：Guangdong University of Technology
+- **🔗 链接**：[[中英摘要](./abs/2405.17891.md)] [[arXiv:2405.17891](https://arxiv.org/abs/2405.17891)] [Code]
+- **📝 说明**：
+
+#### [229] HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction
+- **🧑‍🔬 作者**：Haoyu Zhao, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu
+- **🏫 单位**：WuHan University ⟐ Xi’an Jiaotong University ⟐ The University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2405.17872.md)] [[arXiv:2405.17872](https://arxiv.org/abs/2405.17872)] [Code]
+- **📝 说明**：
+
+#### [219] Sync4D: Video Guided Controllable Dynamics for Physics-Based 4D Generation
+- **🧑‍🔬 作者**：Zhoujie Fu, Jiacheng Wei, Wenhao Shen, Chaoyue Song, Xiaofeng Yang, Fayao Liu, Xulei Yang, Guosheng Lin
+- **🏫 单位**：Nanyang Technological University ⟐ A*STAR
+- **🔗 链接**：[[中英摘要](./abs/2405.16849.md)] [[arXiv:2405.16849](https://arxiv.org/abs/2405.16849)] [Code]
+- **📝 说明**：
+
+#### [214] GSDeformer: Direct Cage-based Deformation for 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Jiajun Huang, Hongchuan Yu
+- **🏫 单位**：Bournemouth University
+- **🔗 链接**：[[中英摘要](./abs/2405.15491.md)] [[arXiv:2405.15491](https://arxiv.org/abs/2405.15491)] [Code]
+- **📝 说明**：
+
+#### [207] D-MiSo: Editing Dynamic 3D Scenes using Multi-Gaussians Soup
+- **🧑‍🔬 作者**：Joanna Waczyńska, Piotr Borycki, Joanna Kaleta, Sławomir Tadeja, Przemysław Spurek
+- **🏫 单位**：Jagiellonian University ⟐ Warsaw University of Technology ⟐ University of Cambridge
+- **🔗 链接**：[[中英摘要](./abs/2405.14276.md)] [[arXiv:2405.14276](https://arxiv.org/abs/2405.14276)] [Code]
+- **📝 说明**：
+
+#### [206] NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation
+- **🧑‍🔬 作者**：Chaokang Jiang, Dalong Du, Jiuming Liu, Siting Zhu, Zhenqiang Liu, Zhuang Ma, Zhujin Liang, Jie Zhou
+- **🏫 单位**：PhiGent Robotics ⟐ Shanghai Jiaotong University ⟐ Tsinghua University
+- **🔗 链接**：[[中英摘要](./abs/2405.14241.md)] [[arXiv:2405.14241](https://arxiv.org/abs/2405.14241)] [[Code](https://github.com/jiangchaokang/NeuroGauss4D-PCI)]
+- **📝 说明**：
+
+#### [203] Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances
+- **🧑‍🔬 作者**：Licheng Shen, Ho Ngai Chow, Lingyun Wang, Tong Zhang, Mengqiu Wang, Yuxing Han
+- **🏫 单位**：Tsinghua Shenzhen International Graduate School, Tsinghua University ⟐ Zero-Zero Lab ⟐ Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2405.13694.md)] [[arXiv:2405.13694](https://arxiv.org/abs/2405.13694)] [Code]
+- **📝 说明**：
+
+#### [183] DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos
+- **🧑‍🔬 作者**：Wen-Hsuan Chu, Lei Ke, Katerina Fragkiadaki
+- **🏫 单位**：Carnegie Mellon University
+- **🔗 链接**：[[中英摘要](./abs/2405.02280.md)] [[arXiv:2405.02280](https://arxiv.org/abs/2405.02280)] [[Code](https://github.com/dreamscene4d/dreamscene4d)]
+- **📝 说明**：✏️
+
+#### [176] GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting
+- **🧑‍🔬 作者**：Bo Chen, Shoukang Hu, Qi Chen, Chenpeng Du, Ran Yi, Yanmin Qian, Xie Chen
+- **🏫 单位**：Shanghai Jiaotong University ⟐ Nanyang Technological University
+- **🔗 链接**：[[中英摘要](./abs/2404.19040.md)] [[arXiv:2404.19040](https://arxiv.org/abs/2404.19040)] [Code]
+- **📝 说明**：✏️
+
+#### [168] GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Kyusun Cho, Joungbin Lee, Heeji Yoon, Yeobin Hong, Jaehoon Ko, Sangjun Ahn, Seungryong Kim
+- **🏫 单位**：Korea University ⟐ NCSOFT
+- **🔗 链接**：[[中英摘要](./abs/2404.16012.md)] [[arXiv:2404.16012](https://arxiv.org/abs/2404.16012)] [[Code](https://github.com/KU-CVLAB/GaussianTalker)]
+- **📝 说明**：✏️
+
+#### [165] GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Hongyun Yu, Zhan Qu, Qihang Yu, Jianchuan Chen, Zhonghua Jiang, Zhiwen Chen, Shengyu Zhang, Jimin Xu, Fei Wu, Chengfei Lv, Gang Yu
+- **🏫 单位**：Alibaba Group ⟐ Zhejiang University ⟐ Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2404.14037.md)] [[arXiv:2404.14037](https://arxiv.org/abs/2404.14037)] [Code]
+- **📝 说明**：✏️
+
+#### [161] Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Monocular Videos
+- **🧑‍🔬 作者**：Isabella Liu, Hao Su, Xiaolong Wang
+- **🏫 单位**：University of California, San Diego
+- **🔗 链接**：[[中英摘要](./abs/2404.12379.md)] [[arXiv:2404.12379](https://arxiv.org/abs/2404.12379)] [[Code](https://github.com/Isabella98Liu/DG-Mesh)]
+- **📝 说明**：✏️
+
+#### [102] GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation
+- **🧑‍🔬 作者**：Quankai Gao, Qiangeng Xu, Zhe Cao, Ben Mildenhall, Wenchao Ma, Le Chen, Danhang Tang, Ulrich Neumann
+- **🏫 单位**：University of Southern California ⟐ Google ⟐ Pennsylvania State University ⟐ Max Planck Institute for Intelligent Systems
+- **🔗 链接**：[[中英摘要](./abs/2403.12365.md)] [[arXiv:2403.12365](https://arxiv.org/abs/2403.12365)] [[Code](https://github.com/Zerg-Overmind/GaussianFlow)]
+- **📝 说明**：✏️
+
+#### [94] Motion-aware 3D Gaussian Splatting for Efficient Dynamic Scene Reconstruction
+- **🧑‍🔬 作者**：Zhiyang Guo, Wengang Zhou, Li Li, Min Wang, Houqiang Li
+- **🏫 单位**：University of Science and Technology of China ⟐ Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
+- **🔗 链接**：[[中英摘要](./abs/2403.11447.md)] [[arXiv:2403.11447](https://arxiv.org/abs/2403.11447)] [Code]
+- **📝 说明**：✏️
+
+#### [93] BAGS: Building Animatable Gaussian Splatting from a Monocular Video with Diffusion Priors
+- **🧑‍🔬 作者**：Tingyang Zhang, Qingzhe Gao, Weiyu Li, Libin Liu, Baoquan Chen
+- **🏫 单位**：Peking University ⟐ Shandong University ⟐ The Hong Kong University of Science and Technology ⟐
+- **🔗 链接**：[[中英摘要](./abs/2403.11427.md)] [[arXiv:2403.11427](https://arxiv.org/abs/2403.11427)] [[Code](https://github.com/Talegqz/BAGS)]
+- **📝 说明**：✏️
+
+#### [74] ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation
+- **🧑‍🔬 作者**：Guanxing Lu, Shiyi Zhang, Ziwei Wang, Changliu Liu, Jiwen Lu, Yansong Tang
+- **🏫 单位**：Tsinghua Shenzhen International Graduate School ⟐ Carnegie Mellon University ⟐ Tsinghua University
+- **🔗 链接**：[[中英摘要](./abs/2403.08321.md)] [[arXiv:2403.08321](https://arxiv.org/abs/2403.08321)] [Code]
+- **📝 说明**：✏️
+
+#### [69] 3D Gaussian Model for Animation and Texturing
+- **🧑‍🔬 作者**：Xiangzhi Eric Wang, Zackary P. T. Sin
+- **🏫 单位**：The Hong Kong Polytechnic University
+- **🔗 链接**：[[中英摘要](./abs/2402.19441.md)] [[arXiv:2402.19441](https://arxiv.org/abs/2402.19441)] [Code]
+- **📝 说明**：✏️
+
+#### [62] HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Zhenglin Zhou, Fan Ma, Hehe Fan, Yi Yang
+- **🏫 单位**：Zhejiang University
+- **🔗 链接**：[[中英摘要](./abs/2402.06149.md)] [[arXiv:2402.06149](https://arxiv.org/abs/2402.06149)] [[Code](https://github.com/ZhenglinZhou/HeadStudio)]
+- **📝 说明**：✏️
+
+#### [60] Mesh-based Gaussian Splatting for Real-time Large-scale Deformation
+- **🧑‍🔬 作者**：Lin Gao, Jie Yang, Bo-Tao Zhang, Jia-Mu Sun, Yu-Jie Yuan, Hongbo Fu, Yu-Kun Lai
+- **🏫 单位**：University of Chinese Academy of Sciences ⟐  City University of Hong Kong ⟐ Cardiff University
+- **🔗 链接**：[[中英摘要](./abs/2402.04796.md)] [[arXiv:2402.04796](https://arxiv.org/abs/2402.04796)] [Code]
+- **📝 说明**：✏️
+
+#### [59] Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos
+- **🧑‍🔬 作者**：Alfredo Rivero, ShahRukh Athar, Zhixin Shu, Dimitris Samaras
+- **🏫 单位**：Stony Brook University ⟐ Adobe Research
+- **🔗 链接**：[[中英摘要](./abs/2402.03723.md)] [[arXiv:2402.03723](https://arxiv.org/abs/2402.03723)] [Code]
+- **📝 说明**：✏️
+
+#### [58] 4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes
+- **🧑‍🔬 作者**：Yuanxing Duan, Fangyin Wei, Qiyu Dai, Yuhang He, Wenzheng Chen, Baoquan Chen
+- **🏫 单位**：Peking University ⟐ Princeton University ⟐ NVIDIA ⟐ National Key Lab of General AI, China
+- **🔗 链接**：[[中英摘要](./abs/2402.03307.md)] [[arXiv:2402.03307](https://arxiv.org/abs/2402.03307)] [Code]
+- **📝 说明**：🏆 Accepted to SIGGRAPH 2024
+
+#### [52] VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality
+- **🧑‍🔬 作者**：Ying Jiang, Chang Yu, Tianyi Xie, Xuan Li, Yutao Feng, Huamin Wang, Minchen Li, Henry Lau, Feng Gao, Yin Yang, Chenfanfu Jiang
+- **🏫 单位**：UCLA ⟐ HKU ⟐ Utah ⟐ ZJU ⟐ Style3D Research ⟐ CMU ⟐ Amazon
+- **🔗 链接**：[[中英摘要](./abs/2401.16663.md)] [[arXiv:2401.16663](https://arxiv.org/abs/2401.16663)] [Code]
+- **📝 说明**：✏️
+
+#### [51] Endo-4DGS: Distilling Depth Ranking for Endoscopic Monocular Scene Reconstruction with 4D Gaussian Splatting
+- **🧑‍🔬 作者**：Yiming Huang, Beilei Cui, Long Bai, Ziqi Guo, Mengya Xu, Hongliang Ren
+- **🏫 单位**：The Chinese University of Hong Kong ⟐  Shun Hing Institute of Advanced Engineering, CUHK ⟐ Shenzhen Research Institute, CUHK
+- **🔗 链接**：[[中英摘要](./abs/2401.16416.md)] [[arXiv:2401.16416](https://arxiv.org/abs/2401.16416)] [Code]
+- **📝 说明**：✏️
+
+#### [50] Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting
+- **🧑‍🔬 作者**：Yutao Feng, Xiang Feng, Yintong Shang, Ying Jiang, Chang Yu, Zeshun Zong, Tianjia Shao, Hongzhi Wu, Kun Zhou, Chenfanfu Jiang, Yin Yang
+- **🏫 单位**：University of Utah ⟐ Zhejiang University ⟐ UCLA
+- **🔗 链接**：[[中英摘要](./abs/2401.15318.md)] [[arXiv:2401.15318](https://arxiv.org/abs/2401.15318)] [Code]
+- **📝 说明**：✏️
+
+#### [47] EndoGaussian: Gaussian Splatting for Deformable Surgical Scene Reconstruction
+- **🧑‍🔬 作者**：Yifan Liu, Chenxin Li, Chen Yang, Yixuan Yuan
+- **🏫 单位**：Chinese University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2401.12561.md)] [[arXiv:2401.12561](https://arxiv.org/abs/2401.12561)] [[Code](https://github.com/yifliu3/EndoGaussian)]
+- **📝 说明**：✏️
+
+#### [46] Deformable Endoscopic Tissues Reconstruction with Gaussian Splatting
+- **🧑‍🔬 作者**：Lingting Zhu, Zhao Wang, Zhenchao Jin, Guying Lin, Lequan Yu
+- **🏫 单位**：The University of Hong Kong ⟐  The Chinese University of Hong Kong
+- **🔗 链接**：[[中英摘要](./abs/2401.11535.md)] [[arXiv:2401.11535](https://arxiv.org/abs/2401.11535)] [[Code](https://github.com/HKU-MedAI/EndoGS)]
+- **📝 说明**：✏️
+
+#### [44] Fast Dynamic 3D Object Generation from a Single-view Video
+- **🧑‍🔬 作者**：Zijie Pan, Zeyu Yang, Xiatian Zhu, Li Zhang
+- **🏫 单位**：Fudan University ⟐ University of Surrey
+- **🔗 链接**：[[中英摘要](./abs/2401.08742.md)] [[arXiv:2401.08742](https://arxiv.org/abs/2401.08742)] [[Code](https://github.com/fudan-zvg/Efficient4D)]
+- **📝 说明**：✏️
+
+#### [36] 4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency
+- **🧑‍🔬 作者**：Yuyang Yin, Dejia Xu, Zhangyang Wang, Yao Zhao, Yunchao Wei
+- **🏫 单位**：Beijing Jiaotong University ⟐ University of Texas at Austin
+- **🔗 链接**：[[中英摘要](./abs/2312.17225.md)] [[arXiv:2312.17225](https://arxiv.org/abs/2312.17225)] [[Code](https://github.com/VITA-Group/4DGen)]
+- **📝 说明**：✏️
+
+#### [35] DreamGaussian4D: Generative 4D Gaussian Splatting
+- **🧑‍🔬 作者**：Jiawei Ren, Liang Pan, Jiaxiang Tang, Chi Zhang, Ang Cao, Gang Zeng, Ziwei Liu
+- **🏫 单位**：Nanyang Technological University ⟐ Shanghai AI Laboratory ⟐ Peking University ⟐ University of Michigan
+- **🔗 链接**：[[中英摘要](./abs/2312.17142.md)] [[arXiv:2312.17142](https://arxiv.org/abs/2312.17142)] [[Code](https://github.com/jiawei-ren/dreamgaussian4d)]
+- **📝 说明**：✏️
+
+#### [31] Deformable 3D Gaussian Splatting for Animatable Human Avatars
+- **🧑‍🔬 作者**：HyunJun Jung, Nikolas Brasch, Jifei Song, Eduardo Perez-Pellitero, Yiren Zhou, Zhihao Li, Nassir Navab, Benjamin Busam
+- **🏫 单位**：Technical University of Munich ⟐ Huawei Noah’s Ark Lab ⟐ 3dwe.ai
+- **🔗 链接**：[[中英摘要](./abs/2312.15059.md)] [[arXiv:2312.15059](https://arxiv.org/abs/2312.15059)] [[Code](https://github.com/Junggy/pardy-human)]
+- **📝 说明**：Code link 404
+
+#### [28] Compact 3D Scene Representation via Self-Organizing Gaussian Grids
+- **🧑‍🔬 作者**：Wieland Morgenstern, Florian Barthel, Anna Hilsmann, Peter Eisert
+- **🏫 单位**：Fraunhofer Heinrich Hertz Institute ⟐ Humboldt University of Berlin
+- **🔗 链接**：[[中英摘要](./abs/2312.13299.md)] [[arXiv:2312.13299](https://arxiv.org/abs/2312.13299)] [[Code](https://github.com/fraunhoferhhi/Self-Organizing-Gaussians)]
+- **📝 说明**：✏️
+
+#### [26] GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis
+- **🧑‍🔬 作者**：Yiqing Liang, Numair Khan, Zhengqin Li, Thu Nguyen-Phuoc, Douglas Lanman, James Tompkin, Lei Xiao
+- **🏫 单位**：Meta ⟐ Brown University
+- **🔗 链接**：[[中英摘要](./abs/2312.11458.md)] [[arXiv:2312.11458](https://arxiv.org/abs/2312.11458)] [[Supp](https://lynl7130.github.io/gaufre/static/pdfs/suppl.pdf)] [Code]
+- **📝 说明**：✏️
+
+#### [19] HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Helisa Dhamo, Yinyu Nie, Arthur Moreau, Jifei Song, Richard Shaw, Yiren Zhou, Eduardo Pérez-Pellitero
+- **🏫 单位**：Huawei Noah’s Ark Lab
+- **🔗 链接**：[[中英摘要](./abs/2312.02902.md)] [[arXiv:2312.02902](https://arxiv.org/abs/2312.02902)] [Code]
+- **📝 说明**：✏️
+
+#### [18] GaussianHead: Impressive 3D Gaussian-based Head Avatars with Dynamic Hybrid Neural Field
+- **🧑‍🔬 作者**：Jie Wang, Xianyan Li, Jiucheng Xie, Feng Xu, Hao Gao
+- **🏫 单位**：Nanjing University of Posts and Telecommunications ⟐ Tsinghua University
+- **🔗 链接**：[[中英摘要](./abs/2312.01632.md)] [[arXiv:2312.01632](https://arxiv.org/abs/2312.01632)] [[Code](https://github.com/chiehwangs/gaussian-head)]
+- **📝 说明**：✏️
+
+#### [15] MD-Splatting: Learning Metric Deformation from 4D Gaussians in Highly Deformable Scenes
+- **🧑‍🔬 作者**：Bardienus P. Duisterhof, Zhao Mandi, Yunchao Yao, Jia-Wei Liu, Mike Zheng Shou, Shuran Song, Jeffrey Ichnowski
+- **🏫 单位**：National University of Singapore ⟐ Stanford University ⟐ Carnegie Mellon University
+- **🔗 链接**：[[中英摘要](./abs/2312.00583.md)] [[arXiv:2312.00583](https://arxiv.org/abs/2312.00583)] [[Code](https://github.com/momentum-robotics-lab/md-splatting)]
+- **📝 说明**：✏️
+
+#### [13] DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Agelos Kratimenos, Jiahui Lei, Kostas Daniilidis
+- **🏫 单位**：University of Pennsylvania
+- **🔗 链接**：[[中英摘要](./abs/2312.00112.md)] [[arXiv:2312.00112](https://arxiv.org/abs/2312.00112)] [[Code](https://github.com/agelosk/dynmf)]
+- **📝 说明**：✏️
+
+#### [12] Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering
+- **🧑‍🔬 作者**：Yurui Chen, Chun Gu, Junzhe Jiang, Xiatian Zhu, Li Zhang
+- **🏫 单位**：Fudan University ⟐ University of Surrey
+- **🔗 链接**：[[中英摘要](./abs/2311.18561.md)] [[arXiv:2311.18561](https://arxiv.org/abs/2311.18561)] [[Code](https://github.com/fudan-zvg/PVG)]
+- **📝 说明**：✏
+
+#### [9] Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars
+- **🧑‍🔬 作者**：Yang Liu, Xiang Huang, Minghan Qin, Qinwei Lin, Haoqian Wang
+- **🏫 单位**： Tsinghua University ⟐ Gala Sports
+- **🔗 链接**：[[中英摘要](./abs/2311.16482.md)] [[arXiv:2311.16482](https://arxiv.org/abs/2311.16482)] [[Code](https://github.com/jimmyYliu/Animatable-3D-Gaussian)]
+- **📝 说明**：✏️
+
+#### [5] An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes
+- **🧑‍🔬 作者**：Kai Katsumata, Duc Minh Vo, Hideki Nakayama
+- **🏫 单位**：The University of Tokyo
+- **🔗 链接**：[[中英摘要](./abs/2311.12897.md)] [[arXiv:2311.12897](https://arxiv.org/abs/2311.12897)] [[Code](https://github.com/raven38/EfficientDynamic3DGaussian)]
+- **📝 说明**：✏️
+
+#### [3] SplatArmor: Articulated Gaussian splatting for animatable humans from monocular RGB videos
+- **🧑‍🔬 作者**：Rohit Jena, Ganesh Subramanian Iyer, Siddharth Choudhary, Brandon Smith, Pratik Chaudhari, James Gee
+- **🏫 单位**：University of Pennsylvania ⟐ Amazon.com, Inc.
+- **🔗 链接**：[[中英摘要](./abs/2311.10812.md)] [[arXiv:2311.10812](https://arxiv.org/abs/2311.10812)] [[Code](https://github.com/rohitrango/splatarmor)]
+- **📝 说明**：✏️
+
+#### [2] Drivable 3D Gaussian Avatars
+- **🧑‍🔬 作者**：Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero
+- **🏫 单位**：Meta Reality Labs Research ⟐ Technical University of Darmstadt ⟐ Max Planck Institute for Intelligent Systems
+- **🔗 链接**：[[中英摘要](./abs/2311.08581.md)] [[arXiv:2311.08581](https://arxiv.org/abs/2311.08581)] [Code]
+- **📝 说明**：✏️
+
+## CVPR 2024
+
 #### [1] Dynamic 3d gaussians: Tracking by persistent dynamic view synthesis
 - **🧑‍🔬 作者**：Jonathon Luiten, Georgios Kopanas, Bastian Leibe, Deva Ramanan
 - **🏫 单位**：Carnegie Mellon University ⟐ RWTH Aachen University ⟐ Inria & Universite C´ ote d’Azur
@@ -222,6 +500,8 @@
 - **🔗 链接**：[[中英摘要](./abs/2404.14410.md)] [[arXiv:2404.14410](https://arxiv.org/abs/2404.14410)] [Code]
 - **📝 说明**：🏆 Accepted to CVPR 2024
 
+## ECCV 2024
+
 #### [18] STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians
 - **🧑‍🔬 作者**：Yifei Zeng, Yanqin Jiang, Siyu Zhu, Yuanxun Lu, Youtian Lin, Hao Zhu, Weiming Hu, Xun Cao, Yao Yao
 - **🏫 单位**：Nanjing University ⟐ Institution of Automation, Chinese Academy of Science ⟐ Fudan University
@@ -246,6 +526,8 @@
 - **🔗 链接**：[[中英摘要](./abs/2407.11174.md)] [[arXiv:2407.11174](https://arxiv.org/abs/2407.11174)] [Code]
 - **📝 说明**：🏆 Accepted to ECCV 2024
 
+## ICLR 2024
+
 #### [2] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting
 - **🧑‍🔬 作者**：Zeyu Yang, Hongye Yang, Zijie Pan, Xiatian Zhu, Li Zhang
 - **🏫 单位**：Fudan University ⟐ University of Surrey
@@ -257,6 +539,8 @@
 - **🏫 单位**：Peking University
 - **🔗 链接**：[[中英摘要](./abs/2406.03697.md)] [[arXiv:2406.03697](https://arxiv.org/abs/2406.03697)] [Code]
 - **📝 说明**：🏆 Accepted to ICML 2024
+
+## MICCAI 2024
 
 #### [1] Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting
 - **🧑‍🔬 作者**：Shuojue Yang, Qian Li, Daiyun Shen, Bingchen Gong, Qi Dou, Yueming Jin
@@ -270,6 +554,8 @@
 - **🔗 链接**：[[中英摘要](./abs/2406.16073.md)] [[arXiv:2406.16073](https://arxiv.org/abs/2406.16073)] [[Code](https://github.com/CUHK-AIM-Group/LGS)]
 - **📝 说明**：🏆 Accepted by MICCAI 2024
 
+## SIGGRAPH 2024
+
 #### [4] LayGA: Layered Gaussian Avatars for Animatable Clothing Transfer
 - **🧑‍🔬 作者**：Siyou Lin, Zhe Li, Zhaoqi Su, Zerong Zheng, Hongwen Zhang, Yebin Liu
 - **🏫 单位**：Tsinghua University ⟐ NNKosmos Technology ⟐ Beijing Normal University
@@ -281,6 +567,8 @@
 - **🏫 单位**：Zhejiang University ⟐ Jilin University ⟐ Ant Group ⟐ Google Inc.
 - **🔗 链接**：[[中英摘要](./abs/2405.19745.md)] [[arXiv:2405.19745](https://arxiv.org/abs/2405.19745)] [[Code](https://github.com/BoMingZhao/GaussianPrediction)]
 - **📝 说明**：🏆 Accepted to SIGGRAPH 2024
+
+## WACV 2024
 
 #### [1] Dynamic Gaussian Splatting from Markerless Motion Capture can Reconstruct Infants Movements
 - **🧑‍🔬 作者**：R. James Cotton, Colleen Peyton
