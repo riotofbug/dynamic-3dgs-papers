@@ -1,5 +1,12 @@
 # dynamic-3dgs-papers
 
+**⚡ 快捷链接**: [[CVPR](#CVPR-2024)]
+                 [[ECCV](#ECCV-2024)]
+                 [[ICLR](#ICLR-2024)]
+                 [[MICCAI](#MICCAI-2024)]
+                 [[SIGGRAPH](#SIGGRAPH-2024)]
+                 [[WACV](#WACV-2024)]
+
 #### [8] Gaussian Splatting Lucas-Kanade
 - **🧑‍🔬 作者**：Liuyue Xie, Joel Julin, Koichiro Niinuma, Laszlo A. Jeni
 - **🏫 单位**：Carnegie Mellon University ⟐ Fujitsu Research of America
