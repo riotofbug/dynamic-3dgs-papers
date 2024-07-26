@@ -131,19 +131,19 @@
 - **🧑‍🔬 作者**：Licheng Shen, Ho Ngai Chow, Lingyun Wang, Tong Zhang, Mengqiu Wang, Yuxing Han
 - **🏫 单位**：Tsinghua Shenzhen International Graduate School, Tsinghua University ⟐ Zero-Zero Lab ⟐ Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2405.13694.md)] [[arXiv:2405.13694](https://arxiv.org/abs/2405.13694)] [Code]
-- **📝 说明**：
+- **📝 说明**：follow Scaffold-GS
 
 #### [161] Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Monocular Videos
 - **🧑‍🔬 作者**：Isabella Liu, Hao Su, Xiaolong Wang
 - **🏫 单位**：University of California, San Diego
 - **🔗 链接**：[[中英摘要](./abs/2404.12379.md)] [[arXiv:2404.12379](https://arxiv.org/abs/2404.12379)] [[Code](https://github.com/Isabella98Liu/DG-Mesh)]
-- **📝 说明**：✏️
+- **📝 说明**：网格+3dgs;单目
 
 #### [102] GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation
 - **🧑‍🔬 作者**：Quankai Gao, Qiangeng Xu, Zhe Cao, Ben Mildenhall, Wenchao Ma, Le Chen, Danhang Tang, Ulrich Neumann
 - **🏫 单位**：University of Southern California ⟐ Google ⟐ Pennsylvania State University ⟐ Max Planck Institute for Intelligent Systems
 - **🔗 链接**：[[中英摘要](./abs/2403.12365.md)] [[arXiv:2403.12365](https://arxiv.org/abs/2403.12365)] [[Code](https://github.com/Zerg-Overmind/GaussianFlow)]
-- **📝 说明**：✏️
+- **📝 说明**：高斯流光流监督;3D生成;3D重建
 
 #### [94] Motion-aware 3D Gaussian Splatting for Efficient Dynamic Scene Reconstruction
 - **🧑‍🔬 作者**：Zhiyang Guo, Wengang Zhou, Li Li, Min Wang, Houqiang Li
@@ -155,25 +155,13 @@
 - **🧑‍🔬 作者**：Guanxing Lu, Shiyi Zhang, Ziwei Wang, Changliu Liu, Jiwen Lu, Yansong Tang
 - **🏫 单位**：Tsinghua Shenzhen International Graduate School ⟐ Carnegie Mellon University ⟐ Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2403.08321.md)] [[arXiv:2403.08321](https://arxiv.org/abs/2403.08321)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：光流
 
 #### [60] Mesh-based Gaussian Splatting for Real-time Large-scale Deformation
 - **🧑‍🔬 作者**：Lin Gao, Jie Yang, Bo-Tao Zhang, Jia-Mu Sun, Yu-Jie Yuan, Hongbo Fu, Yu-Kun Lai
 - **🏫 单位**：University of Chinese Academy of Sciences ⟐  City University of Hong Kong ⟐ Cardiff University
 - **🔗 链接**：[[中英摘要](./abs/2402.04796.md)] [[arXiv:2402.04796](https://arxiv.org/abs/2402.04796)] [Code]
-- **📝 说明**：✏️
-
-#### [59] Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos
-- **🧑‍🔬 作者**：Alfredo Rivero, ShahRukh Athar, Zhixin Shu, Dimitris Samaras
-- **🏫 单位**：Stony Brook University ⟐ Adobe Research
-- **🔗 链接**：[[中英摘要](./abs/2402.03723.md)] [[arXiv:2402.03723](https://arxiv.org/abs/2402.03723)] [Code]
-- **📝 说明**：✏️
-
-#### [58] 4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes
-- **🧑‍🔬 作者**：Yuanxing Duan, Fangyin Wei, Qiyu Dai, Yuhang He, Wenzheng Chen, Baoquan Chen
-- **🏫 单位**：Peking University ⟐ Princeton University ⟐ NVIDIA ⟐ National Key Lab of General AI, China
-- **🔗 链接**：[[中英摘要](./abs/2402.03307.md)] [[arXiv:2402.03307](https://arxiv.org/abs/2402.03307)] [Code]
-- **📝 说明**：🏆 Accepted to SIGGRAPH 2024
+- **📝 说明**：网格;大变形
 
 #### [52] VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality
 - **🧑‍🔬 作者**：Ying Jiang, Chang Yu, Tianyi Xie, Xuan Li, Yutao Feng, Huamin Wang, Minchen Li, Henry Lau, Feng Gao, Yin Yang, Chenfanfu Jiang
