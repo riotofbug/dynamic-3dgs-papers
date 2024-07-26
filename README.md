@@ -83,49 +83,49 @@
 - **🧑‍🔬 作者**：Kuldeep R Barad, Antoine Richard, Jan Dentler, Miguel Olivares-Mendez, Carol Martinez
 - **🏫 单位**：University of Luxembourg ⟐ Redwire Space Europe
 - **🔗 链接**：[[中英摘要](./abs/2405.20104.md)] [[arXiv:2405.20104](https://arxiv.org/abs/2405.20104)] [Code]
-- **📝 说明**：🏆 Accepted to iSpaRo 2024
+- **📝 说明**：🏆 Accepted to iSpaRo 2024;增量重建
 
 #### [241] DGD: Dynamic 3D Gaussians Distillation
 - **🧑‍🔬 作者**：Isaac Labe, Noam Issachar, Itai Lang, Sagie Benaim
 - **🏫 单位**：The Hebrew University of Jerusalem ⟐ University of Chicago
 - **🔗 链接**：[[中英摘要](./abs/2405.19321.md)] [[arXiv:2405.19321](https://arxiv.org/abs/2405.19321)] [[Code](https://github.com/Isaaclabe/DGD-Dynamic-3D-Gaussians-Distillation)]
-- **📝 说明**：
+- **📝 说明**：外观和语义属性的联合优化
 
 #### [238] GFlow: Recovering 4D World from Monocular Video
 - **🧑‍🔬 作者**：Shizun Wang, Xingyi Yang, Qiuhong Shen, Zhenxiang Jiang, Xinchao Wang
 - **🏫 单位**：National University of Singapore
 - **🔗 链接**：[[中英摘要](./abs/2405.18426.md)] [[arXiv:2405.18426](https://arxiv.org/abs/2405.18426)] [Code]
-- **📝 说明**：
+- **📝 说明**：单目;分割动态静态;深度;光流
 
 #### [230] A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction
 - **🧑‍🔬 作者**：Bin Zhang, Bi Zeng, Zexin Peng
 - **🏫 单位**：Guangdong University of Technology
 - **🔗 链接**：[[中英摘要](./abs/2405.17891.md)] [[arXiv:2405.17891](https://arxiv.org/abs/2405.17891)] [Code]
-- **📝 说明**：
+- **📝 说明**：去噪点;静态约束；运动一致性约束
 
 #### [229] HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction
 - **🧑‍🔬 作者**：Haoyu Zhao, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu
 - **🏫 单位**：WuHan University ⟐ Xi’an Jiaotong University ⟐ The University of Hong Kong
 - **🔗 链接**：[[中英摘要](./abs/2405.17872.md)] [[arXiv:2405.17872](https://arxiv.org/abs/2405.17872)] [Code]
-- **📝 说明**：
+- **📝 说明**：空间频率;时间频率
 
 #### [214] GSDeformer: Direct Cage-based Deformation for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Jiajun Huang, Hongchuan Yu
 - **🏫 单位**：Bournemouth University
 - **🔗 链接**：[[中英摘要](./abs/2405.15491.md)] [[arXiv:2405.15491](https://arxiv.org/abs/2405.15491)] [Code]
-- **📝 说明**：
+- **📝 说明**：代理点云的形变控制高斯变换;自动笼子构建
 
 #### [207] D-MiSo: Editing Dynamic 3D Scenes using Multi-Gaussians Soup
 - **🧑‍🔬 作者**：Joanna Waczyńska, Piotr Borycki, Joanna Kaleta, Sławomir Tadeja, Przemysław Spurek
 - **🏫 单位**：Jagiellonian University ⟐ Warsaw University of Technology ⟐ University of Cambridge
 - **🔗 链接**：[[中英摘要](./abs/2405.14276.md)] [[arXiv:2405.14276](https://arxiv.org/abs/2405.14276)] [Code]
-- **📝 说明**：
+- **📝 说明**：follow SC-GS
 
 #### [206] NeuroGauss4D-PCI: 4D Neural Fields and Gaussian Deformation Fields for Point Cloud Interpolation
 - **🧑‍🔬 作者**：Chaokang Jiang, Dalong Du, Jiuming Liu, Siting Zhu, Zhenqiang Liu, Zhuang Ma, Zhujin Liang, Jie Zhou
 - **🏫 单位**：PhiGent Robotics ⟐ Shanghai Jiaotong University ⟐ Tsinghua University
 - **🔗 链接**：[[中英摘要](./abs/2405.14241.md)] [[arXiv:2405.14241](https://arxiv.org/abs/2405.14241)] [[Code](https://github.com/jiangchaokang/NeuroGauss4D-PCI)]
-- **📝 说明**：
+- **📝 说明**：点云帧插值
 
 #### [203] Gaussian Time Machine: A Real-Time Rendering Methodology for Time-Variant Appearances
 - **🧑‍🔬 作者**：Licheng Shen, Ho Ngai Chow, Lingyun Wang, Tong Zhang, Mengqiu Wang, Yuxing Han
