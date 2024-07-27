@@ -149,7 +149,7 @@
 - **🧑‍🔬 作者**：Zhiyang Guo, Wengang Zhou, Li Li, Min Wang, Houqiang Li
 - **🏫 单位**：University of Science and Technology of China ⟐ Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
 - **🔗 链接**：[[中英摘要](./abs/2403.11447.md)] [[arXiv:2403.11447](https://arxiv.org/abs/2403.11447)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：光流
 
 #### [74] ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation
 - **🧑‍🔬 作者**：Guanxing Lu, Shiyi Zhang, Ziwei Wang, Changliu Liu, Jiwen Lu, Yansong Tang
@@ -163,59 +163,35 @@
 - **🔗 链接**：[[中英摘要](./abs/2402.04796.md)] [[arXiv:2402.04796](https://arxiv.org/abs/2402.04796)] [Code]
 - **📝 说明**：网格;大变形
 
-#### [52] VR-GS: A Physical Dynamics-Aware Interactive Gaussian Splatting System in Virtual Reality
-- **🧑‍🔬 作者**：Ying Jiang, Chang Yu, Tianyi Xie, Xuan Li, Yutao Feng, Huamin Wang, Minchen Li, Henry Lau, Feng Gao, Yin Yang, Chenfanfu Jiang
-- **🏫 单位**：UCLA ⟐ HKU ⟐ Utah ⟐ ZJU ⟐ Style3D Research ⟐ CMU ⟐ Amazon
-- **🔗 链接**：[[中英摘要](./abs/2401.16663.md)] [[arXiv:2401.16663](https://arxiv.org/abs/2401.16663)] [Code]
-- **📝 说明**：✏️
-
-#### [50] Gaussian Splashing: Dynamic Fluid Synthesis with Gaussian Splatting
-- **🧑‍🔬 作者**：Yutao Feng, Xiang Feng, Yintong Shang, Ying Jiang, Chang Yu, Zeshun Zong, Tianjia Shao, Hongzhi Wu, Kun Zhou, Chenfanfu Jiang, Yin Yang
-- **🏫 单位**：University of Utah ⟐ Zhejiang University ⟐ UCLA
-- **🔗 链接**：[[中英摘要](./abs/2401.15318.md)] [[arXiv:2401.15318](https://arxiv.org/abs/2401.15318)] [Code]
-- **📝 说明**：✏️
-
-#### [44] Fast Dynamic 3D Object Generation from a Single-view Video
-- **🧑‍🔬 作者**：Zijie Pan, Zeyu Yang, Xiatian Zhu, Li Zhang
-- **🏫 单位**：Fudan University ⟐ University of Surrey
-- **🔗 链接**：[[中英摘要](./abs/2401.08742.md)] [[arXiv:2401.08742](https://arxiv.org/abs/2401.08742)] [[Code](https://github.com/fudan-zvg/Efficient4D)]
-- **📝 说明**：✏️
-
-#### [28] Compact 3D Scene Representation via Self-Organizing Gaussian Grids
-- **🧑‍🔬 作者**：Wieland Morgenstern, Florian Barthel, Anna Hilsmann, Peter Eisert
-- **🏫 单位**：Fraunhofer Heinrich Hertz Institute ⟐ Humboldt University of Berlin
-- **🔗 链接**：[[中英摘要](./abs/2312.13299.md)] [[arXiv:2312.13299](https://arxiv.org/abs/2312.13299)] [[Code](https://github.com/fraunhoferhhi/Self-Organizing-Gaussians)]
-- **📝 说明**：✏️
-
 #### [26] GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis
 - **🧑‍🔬 作者**：Yiqing Liang, Numair Khan, Zhengqin Li, Thu Nguyen-Phuoc, Douglas Lanman, James Tompkin, Lei Xiao
 - **🏫 单位**：Meta ⟐ Brown University
 - **🔗 链接**：[[中英摘要](./abs/2312.11458.md)] [[arXiv:2312.11458](https://arxiv.org/abs/2312.11458)] [[Supp](https://lynl7130.github.io/gaufre/static/pdfs/suppl.pdf)] [Code]
-- **📝 说明**：✏️
+- **📝 说明**：单目;区分静态动态点云
 
 #### [15] MD-Splatting: Learning Metric Deformation from 4D Gaussians in Highly Deformable Scenes
 - **🧑‍🔬 作者**：Bardienus P. Duisterhof, Zhao Mandi, Yunchao Yao, Jia-Wei Liu, Mike Zheng Shou, Shuran Song, Jeffrey Ichnowski
 - **🏫 单位**：National University of Singapore ⟐ Stanford University ⟐ Carnegie Mellon University
 - **🔗 链接**：[[中英摘要](./abs/2312.00583.md)] [[arXiv:2312.00583](https://arxiv.org/abs/2312.00583)] [[Code](https://github.com/momentum-robotics-lab/md-splatting)]
-- **📝 说明**：✏️
+- **📝 说明**：神经体素编码
 
 #### [13] DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Agelos Kratimenos, Jiahui Lei, Kostas Daniilidis
 - **🏫 单位**：University of Pennsylvania
 - **🔗 链接**：[[中英摘要](./abs/2312.00112.md)] [[arXiv:2312.00112](https://arxiv.org/abs/2312.00112)] [[Code](https://github.com/agelosk/dynmf)]
-- **📝 说明**：✏️
+- **📝 说明**：分解为少量神经轨迹
 
 #### [12] Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering
 - **🧑‍🔬 作者**：Yurui Chen, Chun Gu, Junzhe Jiang, Xiatian Zhu, Li Zhang
 - **🏫 单位**：Fudan University ⟐ University of Surrey
 - **🔗 链接**：[[中英摘要](./abs/2311.18561.md)] [[arXiv:2311.18561](https://arxiv.org/abs/2311.18561)] [[Code](https://github.com/fudan-zvg/PVG)]
-- **📝 说明**：✏
+- **📝 说明**：大型城市场景;分动态静态;周期振动
 
 #### [5] An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes
 - **🧑‍🔬 作者**：Kai Katsumata, Duc Minh Vo, Hideki Nakayama
 - **🏫 单位**：The University of Tokyo
 - **🔗 链接**：[[中英摘要](./abs/2311.12897.md)] [[arXiv:2311.12897](https://arxiv.org/abs/2311.12897)] [[Code](https://github.com/raven38/EfficientDynamic3DGaussian)]
-- **📝 说明**：✏️
+- **📝 说明**：单目;多视图;位置旋转随时间变化
 
 ## CVPR 2024
 
@@ -223,61 +199,55 @@
 - **🧑‍🔬 作者**：Jonathon Luiten, Georgios Kopanas, Bastian Leibe, Deva Ramanan
 - **🏫 单位**：Carnegie Mellon University ⟐ RWTH Aachen University ⟐ Inria & Universite C´ ote d’Azur
 - **🔗 链接**：[[中英摘要](./abs/2308.09713.md)] [[arXiv:2308.09713](https://arxiv.org/abs/2308.09713)] [[Code](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
-- **📝 说明**：🏆 Accepted to 3DV 2024 允许高斯分布随时间移动和旋转
+- **📝 说明**：🏆 Accepted to 3DV 2024;允许高斯分布随时间移动和旋转
 
 #### [1] Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction
 - **🧑‍🔬 作者**：Ziyi Yang, Xinyu Gao, Wen Zhou, Shaohui Jiao, Yuqing Zhang, Xiaogang Jin
 - **🏫 单位**： Zhejiang University ⟐ ByteDance Inc.
 - **🔗 链接**：[[中英摘要](./abs/2309.13101.md)] [[arXiv:2309.13101](https://arxiv.org/abs/2309.13101)] [[Code](https://github.com/ingra14m/Deformable-3D-Gaussians)]
-- **📝 说明**：🏆 Accepted to CVPR 2024
+- **📝 说明**：🏆 Accepted to CVPR 2024;单目,变形场;退火平滑训练机制
 
 #### [3] 4d gaussian splatting for real-time dynamic scene rendering
 - **🧑‍🔬 作者**：Guanjun Wu, Taoran Yi, Jiemin Fang, Lingxi Xie, Xiaopeng Zhang, Wei Wei, Wenyu Liu, Qi Tian, Xinggang Wang
 - **🏫 单位**：Huazhong University of Science and Technology ⟐ Huawei Inc.
 - **🔗 链接**：[[中英摘要](./abs/2310.08528.md)] [[arXiv:2310.08528](https://arxiv.org/abs/2310.08528)] [[Code](https://github.com/hustvl/4DGaussians)]
-- **📝 说明**：🏆 Accepted to CVPR 2024
+- **📝 说明**：🏆 Accepted to CVPR 2024;4D神经体素;HexPlane
 
 #### [33] Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle
 - **🧑‍🔬 作者**：Youtian Lin, Zuozhuo Dai, Siyu Zhu, Yao Yao
 - **🏫 单位**：Nanjing University ⟐ Alibaba Group ⟐ Fudan University
 - **🔗 链接**：[[中英摘要](./abs/2312.03431.md)] [[arXiv:2312.03431](https://arxiv.org/abs/2312.03431)] [Code]
-- **📝 说明**：🏆 Accepted to CVPR 2024
+- **📝 说明**：🏆 Accepted to CVPR 2024;Dual-Domain Deformation Model (DDDM)
 
 #### [40] DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes
 - **🧑‍🔬 作者**：Xiaoyu Zhou, Zhiwei Lin, Xiaojun Shan, Yongtao Wang, Deqing Sun, Ming-Hsuan Yang
 - **🏫 单位**：Peking University ⟐ Google Research ⟐ University of California, Merced
 - **🔗 链接**：[[中英摘要](./abs/2312.07920.md)] [[arXiv:2312.07920](https://arxiv.org/abs/2312.07920)] [[Code](https://github.com/VDIGPKU/DrivingGaussian)]
-- **📝 说明**：🏆 Accepted to CVPR 2024
+- **📝 说明**：🏆 Accepted to CVPR 2024;驾驶场景;分割动态静态对象
 
 #### [48] SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes
 - **🧑‍🔬 作者**：Yi-Hua Huang, Yang-Tian Sun, Ziyi Yang, Xiaoyang Lyu, Yan-Pei Cao, Xiaojuan Qi
 - **🏫 单位**：The University of Hong Kong ⟐ VAST ⟐ Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2312.14937.md)] [[arXiv:2312.14937](https://arxiv.org/abs/2312.14937)] [[Code](https://github.com/yihua7/SC-GS)]
-- **📝 说明**：🏆 Accepted to CVPR 2024
+- **📝 说明**：🏆 Accepted to CVPR 2024;稀疏控制点
 
 #### [50] Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis
 - **🧑‍🔬 作者**：Zhan Li, Zhang Chen, Zhong Li, Yi Xu
 - **🏫 单位**：OPPO US Research Center ⟐ Portland State University
 - **🔗 链接**：[[中英摘要](./abs/2312.16812.md)] [[arXiv:2312.16812](https://arxiv.org/abs/2312.16812)] [[Code](https://github.com/oppo-us-research/SpacetimeGaussians)]
-- **📝 说明**：🏆 Accepted to CVPR 2024
+- **📝 说明**：🏆 Accepted to CVPR 2024;透明度位置旋转随时间变化;神经特征替代球形谐波;训练误差和粗略深度的指导
 
 #### [55] 3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos
 - **🧑‍🔬 作者**：Jiakai Sun, Han Jiao, Guangyuan Li, Zhanjie Zhang, Lei Zhao, Wei Xing
 - **🏫 单位**：Zhejiang University
 - **🔗 链接**：[[中英摘要](./abs/2403.01444.md)] [[arXiv:2403.01444](https://arxiv.org/abs/2403.01444)] [[Code](https://github.com/SJoJoK/3DGStream)]
-- **📝 说明**：🏆 Accepted to CVPR 2024
+- **📝 说明**：🏆 Accepted to CVPR 2024;在线学习
 
 #### [60] 3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis
 - **🧑‍🔬 作者**：Zhicheng Lu, Xiang Guo, Le Hui, Tianrui Chen, Min Yang, Xiao Tang, Feng Zhu, Yuchao Dai
 - **🏫 单位**：Northwestern Polytechnical University ⟐ Samsung R&D Institute
 - **🔗 链接**：[[中英摘要](./abs/2404.06270.md)] [[arXiv:2404.06270](https://arxiv.org/abs/2404.06270)] [Code]
-- **📝 说明**：🏆 Accepted to CVPR 2024
-
-#### [63] Guess The Unseen: Dynamic 3D Scene Reconstruction from Partial 2D Glimpses
-- **🧑‍🔬 作者**：Inhee Lee, Byungjun Kim, Hanbyul Joo
-- **🏫 单位**：Seoul National University
-- **🔗 链接**：[[中英摘要](./abs/2404.14410.md)] [[arXiv:2404.14410](https://arxiv.org/abs/2404.14410)] [Code]
-- **📝 说明**：🏆 Accepted to CVPR 2024
+- **📝 说明**：🏆 Accepted to CVPR 2024;位置旋转随时间变化;显式提取3D几何特征
 
 ## ECCV 2024
 
@@ -285,7 +255,7 @@
 - **🧑‍🔬 作者**：Jeongmin Bae, Seoha Kim, Youngsik Yun, Hahyun Lee, Gun Bang, Youngjung Uh
 - **🏫 单位**：Yonsei University ⟐ Electronics and Telecommunications Research Institute
 - **🔗 链接**：[[中英摘要](./abs/2404.03613.md)] [[arXiv:2404.03613](https://arxiv.org/abs/2404.03613)] [[Code](https://github.com/JeongminB/E-D3DGS)]
-- **📝 说明**：🏆 Accepted to ECCV 2024
+- **📝 说明**：🏆 Accepted to ECCV 2024;将变形定义为每个高斯嵌入和时间嵌入以解决静态高斯随附近动态高斯一起运动的问题;粗变形和细变形，分别模拟慢速和快速运动
 
 ## ICLR 2024
 
@@ -299,21 +269,9 @@
 - **🧑‍🔬 作者**：Diwen Wan, Ruijie Lu, Gang Zeng
 - **🏫 单位**：Peking University
 - **🔗 链接**：[[中英摘要](./abs/2406.03697.md)] [[arXiv:2406.03697](https://arxiv.org/abs/2406.03697)] [Code]
-- **📝 说明**：🏆 Accepted to ICML 2024
+- **📝 说明**：🏆 Accepted to ICML 2024;将具有类似属性（例如，旋转、平移和位置）的高斯聚集到超点
 
 ## MICCAI 2024
-
-#### [1] Deform3DGS: Flexible Deformation for Fast Surgical Scene Reconstruction with Gaussian Splatting
-- **🧑‍🔬 作者**：Shuojue Yang, Qian Li, Daiyun Shen, Bingchen Gong, Qi Dou, Yueming Jin
-- **🏫 单位**： National University of Singapore ⟐ Tsinghua University ⟐ The Chinese University of Hong Kong
-- **🔗 链接**：[[中英摘要](./abs/2405.17835.md)] [[arXiv:2405.17835](https://arxiv.org/abs/2405.17835)] [[Code](https://github.com/jinlab-imvr/Deform3DGS)]
-- **📝 说明**：🏆 Accepted to MICCAI 2024
-
-#### [2] LGS: A Light-weight 4D Gaussian Splatting for Efficient Surgical Scene Reconstruction
-- **🧑‍🔬 作者**：Hengyu Liu, Yifan Liu, Chenxin Li, Wuyang Li, Yixuan Yuan
-- **🏫 单位**：The Chinese University of Hong Kong
-- **🔗 链接**：[[中英摘要](./abs/2406.16073.md)] [[arXiv:2406.16073](https://arxiv.org/abs/2406.16073)] [[Code](https://github.com/CUHK-AIM-Group/LGS)]
-- **📝 说明**：🏆 Accepted by MICCAI 2024
 
 ## SIGGRAPH 2024
 
@@ -321,13 +279,13 @@
 - **🧑‍🔬 作者**：Yuanxing Duan, Fangyin Wei, Qiyu Dai, Yuhang He, Wenzheng Chen, Baoquan Chen
 - **🏫 单位**：Peking University ⟐ Princeton University ⟐ NVIDIA ⟐ National Key Lab of General AI, China
 - **🔗 链接**：[[中英摘要](./abs/2402.03307.md)] [[arXiv:2402.03307](https://arxiv.org/abs/2402.03307)] [Code]
-- **📝 说明**：🏆 Accepted to SIGGRAPH 2024
+- **📝 说明**：🏆 Accepted to SIGGRAPH 2024;4D XYZT高斯函数
 
 #### [5] GaussianPrediction: Dynamic 3D Gaussian Prediction for Motion Extrapolation and Free View Synthesis
 - **🧑‍🔬 作者**：Boming Zhao, Yuan Li, Ziyu Sun, Lin Zeng, Yujun Shen, Rui Ma, Yinda Zhang, Hujun Bao, Zhaopeng Cui
 - **🏫 单位**：Zhejiang University ⟐ Jilin University ⟐ Ant Group ⟐ Google Inc.
 - **🔗 链接**：[[中英摘要](./abs/2405.19745.md)] [[arXiv:2405.19745](https://arxiv.org/abs/2405.19745)] [[Code](https://github.com/BoMingZhao/GaussianPrediction)]
-- **📝 说明**：🏆 Accepted to SIGGRAPH 2024
+- **📝 说明**：🏆 Accepted to SIGGRAPH 2024;能建模也能预测
 
 ## WACV 2024
 
