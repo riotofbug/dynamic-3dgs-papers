@@ -7,6 +7,18 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2024)]
 
+#### [8] MoSca: Dynamic Gaussian Fusion from Casual Videos via 4D Motion Scaffolds
+- **🧑‍🔬 作者**：Liuyue Xie, Joel Julin, Koichiro Niinuma, Laszlo A. Jeni
+- **🏫 单位**：University of Pennsylvania ⟐ Stanford University ⟐ Archimedes Athena RC
+- **🔗 链接**：[[中英摘要](./abs/2405.17421.md)] [[arXiv:2405.17421](https://arxiv.org/abs/2405.17421)] [[Code](https://www.cis.upenn.edu/~leijh/projects/mosca/)]
+- **📝 说明**：单目;scaffold;2D基础模型
+
+#### [1] Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields
+- **🧑‍🔬 作者**：Joo Chan Lee, Daniel Rho, Xiangyu Sun, Jong Hwan Ko, Eunbyung Park
+- **🏫 单位**： the Institute of Information and Communications Technology Planning and Evaluation (IITP) ⟐ the Department of Artificial Intelligence, Sungkyunkwan University ⟐  the Department of Computer Science, University of North Carolina at Chapel Hill ⟐  the Department of Electrical and Computer Engineering, Sungkyunkwan University ⟐ the Department of Electronic and Electrical Engineering, Sungkyunkwan University
+- **🔗 链接**：[[中英摘要](./abs/2408.03822.md)] [[arXiv:2408.03822](https://arxiv.org/abs/2408.03822)] [[Code](https://maincold2.github.io/c3dgs/)]
+- **📝 说明**：减少高斯数量;压缩高斯属性;码本、量化、熵编码来提高动态场景性能
+
 #### [8] Gaussian Splatting Lucas-Kanade
 - **🧑‍🔬 作者**：Liuyue Xie, Joel Julin, Koichiro Niinuma, Laszlo A. Jeni
 - **🏫 单位**：Carnegie Mellon University ⟐ Fujitsu Research of America
