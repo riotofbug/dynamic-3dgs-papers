@@ -49,12 +49,6 @@
 - **🔗 链接**：[[中英摘要](./abs/2406.13870.md)] [[arXiv:2406.13870](https://arxiv.org/abs/2406.13870)] [Code]
 - **📝 说明**：将视频嵌入 3D 高斯中
 
-#### [62] Modeling Ambient Scene Dynamics for Free-view Synthesis
-- **🧑‍🔬 作者**：Meng-Li Shih, Jia-Bin Huang, Changil Kim, Rajvi Shah, Johannes Kopf, Chen Gao
-- **🏫 单位**：University of Washington ⟐ University of Maryland ⟐ Meta
-- **🔗 链接**：[[中英摘要](./abs/2406.09395.md)] [[arXiv:2406.09395](https://arxiv.org/abs/2406.09395)] [Code]
-- **📝 说明**：单目
-
 #### [75] InfoGaussian: Structure-Aware Dynamic Gaussians through Lightweight Information Shaping
 - **🧑‍🔬 作者**：Yunchao Zhang, Guandao Yang, Leonidas Guibas, Yanchao Yang
 - **🏫 单位**：The University of Hong Kong ⟐ Stanford University
@@ -286,6 +280,12 @@
 ## MICCAI 2024
 
 ## SIGGRAPH 2024
+
+#### [62] Modeling Ambient Scene Dynamics for Free-view Synthesis
+- **🧑‍🔬 作者**：Meng-Li Shih, Jia-Bin Huang, Changil Kim, Rajvi Shah, Johannes Kopf, Chen Gao
+- **🏫 单位**：University of Washington ⟐ University of Maryland ⟐ Meta
+- **🔗 链接**：[[中英摘要](./abs/2406.09395.md)] [[arXiv:2406.09395](https://arxiv.org/abs/2406.09395)] [[Code](https://ambientgaussian.github.io/)]
+- **📝 说明**：单目
 
 #### [58] 4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes
 - **🧑‍🔬 作者**：Yuanxing Duan, Fangyin Wei, Qiyu Dai, Yuhang He, Wenzheng Chen, Baoquan Chen
