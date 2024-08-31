@@ -187,6 +187,12 @@
 - **🔗 链接**：[[中英摘要](./abs/2311.12897.md)] [[arXiv:2311.12897](https://arxiv.org/abs/2311.12897)] [[Code](https://github.com/raven38/EfficientDynamic3DGaussian)]
 - **📝 说明**：单目;多视图;位置旋转随时间变化
 
+#### [3] Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction
+- **🧑‍🔬 作者**：Diwen Wan, Ruijie Lu, Gang Zeng
+- **🏫 单位**：Peking University
+- **🔗 链接**：[[中英摘要](./abs/2406.03697.md)] [[arXiv:2406.03697](https://arxiv.org/abs/2406.03697)] [[Code](https://github.com/dnvtmf/SP_GS)]
+- **📝 说明**：🏆 Accepted to ICML 2024;将具有类似属性（例如，旋转、平移和位置）的高斯聚集到超点
+
 ## CVPR 2024
 
 #### [1] Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields
@@ -270,12 +276,6 @@
 - **🏫 单位**：Fudan University ⟐ University of Surrey
 - **🔗 链接**：[[中英摘要](./abs/2310.10642.md)] [[arXiv:2310.10642](https://arxiv.org/abs/2310.10642)] [[OpenReview](https://openreview.net/forum?id=WhgB5sispV)] [[Code](https://github.com/fudan-zvg/4d-gaussian-splatting)]
 - **📝 说明**：🏆 ICLR 2024 poster; 🌟 OpenReview Ratings: 8, 6, 6;优化一组4D原语
-
-#### [3] Superpoint Gaussian Splatting for Real-Time High-Fidelity Dynamic Scene Reconstruction
-- **🧑‍🔬 作者**：Diwen Wan, Ruijie Lu, Gang Zeng
-- **🏫 单位**：Peking University
-- **🔗 链接**：[[中英摘要](./abs/2406.03697.md)] [[arXiv:2406.03697](https://arxiv.org/abs/2406.03697)] [Code]
-- **📝 说明**：🏆 Accepted to ICML 2024;将具有类似属性（例如，旋转、平移和位置）的高斯聚集到超点
 
 ## MICCAI 2024
 
