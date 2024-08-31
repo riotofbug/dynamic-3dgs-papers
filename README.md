@@ -166,7 +166,7 @@
 #### [26] GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis
 - **🧑‍🔬 作者**：Yiqing Liang, Numair Khan, Zhengqin Li, Thu Nguyen-Phuoc, Douglas Lanman, James Tompkin, Lei Xiao
 - **🏫 单位**：Meta ⟐ Brown University
-- **🔗 链接**：[[中英摘要](./abs/2312.11458.md)] [[arXiv:2312.11458](https://arxiv.org/abs/2312.11458)] [[Supp](https://lynl7130.github.io/gaufre/static/pdfs/suppl.pdf)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2312.11458.md)] [[arXiv:2312.11458](https://arxiv.org/abs/2312.11458)] [[Supp](https://lynl7130.github.io/gaufre/static/pdfs/suppl.pdf)] [[Code](https://lynl7130.github.io/gaufre/index.html)]
 - **📝 说明**：单目;区分静态动态点云
 
 #### [15] MD-Splatting: Learning Metric Deformation from 4D Gaussians in Highly Deformable Scenes
