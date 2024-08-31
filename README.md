@@ -154,7 +154,7 @@
 #### [74] ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation
 - **🧑‍🔬 作者**：Guanxing Lu, Shiyi Zhang, Ziwei Wang, Changliu Liu, Jiwen Lu, Yansong Tang
 - **🏫 单位**：Tsinghua Shenzhen International Graduate School ⟐ Carnegie Mellon University ⟐ Tsinghua University
-- **🔗 链接**：[[中英摘要](./abs/2403.08321.md)] [[arXiv:2403.08321](https://arxiv.org/abs/2403.08321)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2403.08321.md)] [[arXiv:2403.08321](https://arxiv.org/abs/2403.08321)] [[Code](https://github.com/GuanxingLu/ManiGaussian)]
 - **📝 说明**：光流
 
 #### [60] Mesh-based Gaussian Splatting for Real-time Large-scale Deformation
