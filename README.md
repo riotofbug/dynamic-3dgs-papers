@@ -175,12 +175,6 @@
 - **🔗 链接**：[[中英摘要](./abs/2312.00583.md)] [[arXiv:2312.00583](https://arxiv.org/abs/2312.00583)] [[Code](https://github.com/momentum-robotics-lab/md-splatting)]
 - **📝 说明**：神经体素编码
 
-#### [13] DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting
-- **🧑‍🔬 作者**：Agelos Kratimenos, Jiahui Lei, Kostas Daniilidis
-- **🏫 单位**：University of Pennsylvania
-- **🔗 链接**：[[中英摘要](./abs/2312.00112.md)] [[arXiv:2312.00112](https://arxiv.org/abs/2312.00112)] [[Code](https://github.com/agelosk/dynmf)]
-- **📝 说明**：分解为少量神经轨迹
-
 #### [12] Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering
 - **🧑‍🔬 作者**：Yurui Chen, Chun Gu, Junzhe Jiang, Xiatian Zhu, Li Zhang
 - **🏫 单位**：Fudan University ⟐ University of Surrey
@@ -256,6 +250,12 @@
 - **📝 说明**：🏆 Accepted to CVPR 2024;位置旋转随时间变化;显式提取3D几何特征
 
 ## ECCV 2024
+
+#### [13] DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Agelos Kratimenos, Jiahui Lei, Kostas Daniilidis
+- **🏫 单位**：University of Pennsylvania
+- **🔗 链接**：[[中英摘要](./abs/2312.00112.md)] [[arXiv:2312.00112](https://arxiv.org/abs/2312.00112)] [[Code](https://github.com/agelosk/dynmf)]
+- **📝 说明**：分解为少量神经轨迹
 
 #### [23] Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Jeongmin Bae, Seoha Kim, Youngsik Yun, Hahyun Lee, Gun Bang, Youngjung Uh
