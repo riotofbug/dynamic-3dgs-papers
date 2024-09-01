@@ -22,13 +22,13 @@
 #### [24] AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction
 - **🧑‍🔬 作者**：Mustafa Khan, Hamidreza Fazlali, Dhruv Sharma, Tongtong Cao, Dongfeng Bai, Yuan Ren, Bingbing Liu
 - **🏫 单位**：University of Toronto ⟐ Noah’s Ark Lab, Huawei Technologies
-- **🔗 链接**：[[中英摘要](./abs/2407.02598.md)] [[arXiv:2407.02598](https://arxiv.org/abs/2407.02598)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2407.02598.md)] [[arXiv:2407.02598](https://arxiv.org/abs/2407.02598)] [[Code](https://autosplat.github.io/)]
 - **📝 说明**：城市级场景重建
 
 #### [31] EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Daiwei Zhang, Gengyan Li, Jiajie Li, Mickaël Bressieux, Otmar Hilliges, Marc Pollefeys, Luc Van Gool, Xi Wang
 - **🏫 单位**：ETH Zürich ⟐ Google ⟐ Microsoft ⟐ KU Leuven ⟐ INSAIT, Sofia
-- **🔗 链接**：[[中英摘要](./abs/2406.19811.md)] [[arXiv:2406.19811](https://arxiv.org/abs/2406.19811)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2406.19811.md)] [[arXiv:2406.19811](https://arxiv.org/abs/2406.19811)] [[Code](https://zdwww.github.io/egogs.github.io/)]
 - **📝 说明**：分割静态和动态物体分布建模
 
 #### [34] Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos
@@ -40,13 +40,13 @@
 #### [40] VDG: Vision-Only Dynamic Gaussian for Driving Simulation
 - **🧑‍🔬 作者**：Hao Li, Jingfeng Li, Dingwen Zhang, Chenming Wu, Jieqi Shi, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Junwei Han
 - **🏫 单位**：NWPU ⟐ Baidu Inc. ⟐ HKUST
-- **🔗 链接**：[[中英摘要](./abs/2406.18198.md)] [[arXiv:2406.18198](https://arxiv.org/abs/2406.18198)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2406.18198.md)] [[arXiv:2406.18198](https://arxiv.org/abs/2406.18198)] [[Code](https://3d-aigc.github.io/VDG/)]
 - **📝 说明**：城市级场景重建
 
 #### [50] Splatter a Video: Video Gaussian Representation for Versatile Processing
 - **🧑‍🔬 作者**：Yang-Tian Sun, Yi-Hua Huang, Lin Ma, Xiaoyang Lyu, Yan-Pei Cao, Xiaojuan Qi
 - **🏫 单位**：The University of Hong Kong ⟐ VAST
-- **🔗 链接**：[[中英摘要](./abs/2406.13870.md)] [[arXiv:2406.13870](https://arxiv.org/abs/2406.13870)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2406.13870.md)] [[arXiv:2406.13870](https://arxiv.org/abs/2406.13870)] [[Code](https://sunyangtian.github.io/spatter_a_video_web/)]
 - **📝 说明**：将视频嵌入 3D 高斯中
 
 #### [75] InfoGaussian: Structure-Aware Dynamic Gaussians through Lightweight Information Shaping
@@ -76,13 +76,13 @@
 #### [99] MoDGS: Dynamic Gaussian Splatting from Causually-captured Monocular Videos
 - **🧑‍🔬 作者**：Qingming Liu, Yuan Liu, Jiepeng Wang, Xianqiang Lv, Peng Wang, Wenping Wang, Junhui Hou
 - **🏫 单位**：City University of Hong kong ⟐ The University of Hong kong ⟐ Texas A&M University, U.S.A
-- **🔗 链接**：[[中英摘要](./abs/2406.00434.md)] [[arXiv:2406.00434](https://arxiv.org/abs/2406.00434)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2406.00434.md)] [[arXiv:2406.00434](https://arxiv.org/abs/2406.00434)] [[Code](https://modgs.github.io/)]
 - **📝 说明**：使用随意捕获的单目视频;单视图深度估计方法
 
 #### [247] Object-centric Reconstruction and Tracking of Dynamic Unknown Objects using 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Kuldeep R Barad, Antoine Richard, Jan Dentler, Miguel Olivares-Mendez, Carol Martinez
 - **🏫 单位**：University of Luxembourg ⟐ Redwire Space Europe
-- **🔗 链接**：[[中英摘要](./abs/2405.20104.md)] [[arXiv:2405.20104](https://arxiv.org/abs/2405.20104)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2405.20104.md)] [[arXiv:2405.20104](https://arxiv.org/abs/2405.20104)] [[Code](https://kuldeepbrd1.github.io/projects/oc-3dgs/)]
 - **📝 说明**：🏆 Accepted to iSpaRo 2024;增量重建
 
 #### [241] DGD: Dynamic 3D Gaussians Distillation
@@ -94,14 +94,14 @@
 #### [238] GFlow: Recovering 4D World from Monocular Video
 - **🧑‍🔬 作者**：Shizun Wang, Xingyi Yang, Qiuhong Shen, Zhenxiang Jiang, Xinchao Wang
 - **🏫 单位**：National University of Singapore
-- **🔗 链接**：[[中英摘要](./abs/2405.18426.md)] [[arXiv:2405.18426](https://arxiv.org/abs/2405.18426)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2405.18426.md)] [[arXiv:2405.18426](https://arxiv.org/abs/2405.18426)] [[Code](https://littlepure2333.github.io/GFlow/)]
 - **📝 说明**：单目;分割动态静态;深度;光流
 
 #### [230] A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction
 - **🧑‍🔬 作者**：Bin Zhang, Bi Zeng, Zexin Peng
 - **🏫 单位**：Guangdong University of Technology
 - **🔗 链接**：[[中英摘要](./abs/2405.17891.md)] [[arXiv:2405.17891](https://arxiv.org/abs/2405.17891)] [Code]
-- **📝 说明**：去噪点;静态约束；运动一致性约束
+- **📝 说明**：🚨多视图动态重建;去噪点;静态约束;运动一致性约束
 
 #### [229] HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction
 - **🧑‍🔬 作者**：Haoyu Zhao, Xingyue Zhao, Lingting Zhu, Weixi Zheng, Yongchao Xu
@@ -112,7 +112,7 @@
 #### [214] GSDeformer: Direct Cage-based Deformation for 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Jiajun Huang, Hongchuan Yu
 - **🏫 单位**：Bournemouth University
-- **🔗 链接**：[[中英摘要](./abs/2405.15491.md)] [[arXiv:2405.15491](https://arxiv.org/abs/2405.15491)] [Code]
+- **🔗 链接**：[[中英摘要](./abs/2405.15491.md)] [[arXiv:2405.15491](https://arxiv.org/abs/2405.15491)] [[Code](https://jhuangbu.github.io/gsdeformer/)]
 - **📝 说明**：代理点云的形变控制高斯变换;自动笼子构建
 
 #### [207] D-MiSo: Editing Dynamic 3D Scenes using Multi-Gaussians Soup
@@ -143,7 +143,7 @@
 - **🧑‍🔬 作者**：Quankai Gao, Qiangeng Xu, Zhe Cao, Ben Mildenhall, Wenchao Ma, Le Chen, Danhang Tang, Ulrich Neumann
 - **🏫 单位**：University of Southern California ⟐ Google ⟐ Pennsylvania State University ⟐ Max Planck Institute for Intelligent Systems
 - **🔗 链接**：[[中英摘要](./abs/2403.12365.md)] [[arXiv:2403.12365](https://arxiv.org/abs/2403.12365)] [[Code](https://github.com/Zerg-Overmind/GaussianFlow)]
-- **📝 说明**：高斯流光流监督;3D生成;3D重建
+- **📝 说明**：🚨多视图动态重建;高斯流光流监督;生成
 
 #### [94] Motion-aware 3D Gaussian Splatting for Efficient Dynamic Scene Reconstruction
 - **🧑‍🔬 作者**：Zhiyang Guo, Wengang Zhou, Li Li, Min Wang, Houqiang Li
