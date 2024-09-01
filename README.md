@@ -17,7 +17,7 @@
 - **🧑‍🔬 作者**：Liuyue Xie, Joel Julin, Koichiro Niinuma, Laszlo A. Jeni
 - **🏫 单位**：Carnegie Mellon University ⟐ Fujitsu Research of America
 - **🔗 链接**：[[中英摘要](./abs/2407.11309.md)] [[arXiv:2407.11309](https://arxiv.org/abs/2407.11309)] [Code]
-- **📝 说明**：Lucas-Kanade方法(光流估计算法)
+- **📝 说明**：🚨多视图动态重建;Lucas-Kanade方法(光流估计算法)
 
 #### [24] AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction
 - **🧑‍🔬 作者**：Mustafa Khan, Hamidreza Fazlali, Dhruv Sharma, Tongtong Cao, Dongfeng Bai, Yuan Ren, Bingbing Liu
@@ -149,7 +149,7 @@
 - **🧑‍🔬 作者**：Zhiyang Guo, Wengang Zhou, Li Li, Min Wang, Houqiang Li
 - **🏫 单位**：University of Science and Technology of China ⟐ Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
 - **🔗 链接**：[[中英摘要](./abs/2403.11447.md)] [[arXiv:2403.11447](https://arxiv.org/abs/2403.11447)] [Code]
-- **📝 说明**：光流
+- **📝 说明**：🚨多视图动态重建;光流
 
 #### [74] ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation
 - **🧑‍🔬 作者**：Guanxing Lu, Shiyi Zhang, Ziwei Wang, Changliu Liu, Jiwen Lu, Yansong Tang
@@ -173,7 +173,7 @@
 - **🧑‍🔬 作者**：Bardienus P. Duisterhof, Zhao Mandi, Yunchao Yao, Jia-Wei Liu, Mike Zheng Shou, Shuran Song, Jeffrey Ichnowski
 - **🏫 单位**：National University of Singapore ⟐ Stanford University ⟐ Carnegie Mellon University
 - **🔗 链接**：[[中英摘要](./abs/2312.00583.md)] [[arXiv:2312.00583](https://arxiv.org/abs/2312.00583)] [[Code](https://github.com/momentum-robotics-lab/md-splatting)]
-- **📝 说明**：神经体素编码
+- **📝 说明**：Accepted to WAFR 2024;神经体素编码
 
 #### [12] Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering
 - **🧑‍🔬 作者**：Yurui Chen, Chun Gu, Junzhe Jiang, Xiatian Zhu, Li Zhang
@@ -191,7 +191,7 @@
 - **🧑‍🔬 作者**：Diwen Wan, Ruijie Lu, Gang Zeng
 - **🏫 单位**：Peking University
 - **🔗 链接**：[[中英摘要](./abs/2406.03697.md)] [[arXiv:2406.03697](https://arxiv.org/abs/2406.03697)] [[Code](https://github.com/dnvtmf/SP_GS)]
-- **📝 说明**：🏆 Accepted to ICML 2024;将具有类似属性（例如，旋转、平移和位置）的高斯聚集到超点
+- **📝 说明**：🚨多视图动态重建;🏆 Accepted to ICML 2024;将具有类似属性（例如，旋转、平移和位置）的高斯聚集到超点
 
 ## CVPR 2024
 
