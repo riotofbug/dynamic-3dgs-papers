@@ -7,6 +7,24 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2024)]
 
+#### [5] LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming
+- **🧑‍🔬 作者**：Yuang Shi, Simone Gasparini, Géraldine Morin, Wei Tsang Ooi
+- **🏫 单位**：National University of Singapore ⟐ IRIT - University of Toulouse
+- **🔗 链接**：[[中英摘要](./abs/2408.14823.md)] [[arXiv:2408.14823](https://arxiv.org/abs/2408.14823)] [Code]
+- **📝 说明**：
+
+#### [7] DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting
+- **🧑‍🔬 作者**：Weiwei Cai, Weicai Ye, Peng Ye, Tong He, Tao Chen
+- **🏫 单位**：Fudan University ⟐ Zhejiang University ⟐ Shanghai AI Laboratory
+- **🔗 链接**：[[中英摘要](./abs/2408.13972.md)] [[arXiv:2408.13972](https://arxiv.org/abs/2408.13972)] [[Code](https://github.com/Open3DVLab/DynaSurfGS)]
+- **📝 说明**：
+
+#### [14] S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points
+- **🧑‍🔬 作者**：Bing He, Yunuo Chen, Guo Lu, Li Song, Wenjun Zhang
+- **🏫 单位**：Shanghai Jiao Tong University
+- **🔗 链接**：[[中英摘要](./abs/2408.13036.md)] [[arXiv:2408.13036](https://arxiv.org/abs/2408.13036)] [Code]
+- **📝 说明**：
+
 #### [8] MoSca: Dynamic Gaussian Fusion from Casual Videos via 4D Motion Scaffolds
 - **🧑‍🔬 作者**：Liuyue Xie, Joel Julin, Koichiro Niinuma, Laszlo A. Jeni
 - **🏫 单位**：University of Pennsylvania ⟐ Stanford University ⟐ Archimedes Athena RC
