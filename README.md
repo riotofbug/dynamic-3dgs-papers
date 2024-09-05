@@ -7,6 +7,12 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2024)]
 
+#### [1] DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction
+- **🧑‍🔬 作者**：Jenny Seidenschwarz, Qunjie Zhou, Bardienus Duisterhof, Deva Ramanan, Laura Leal-Taixé
+- **🏫 单位**：Technical University of Munich ⟐ Carnegie Mellon University ⟐ NVIDIA
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2409.02104.md)] [[arXiv:2409.02104](https://arxiv.org/abs/2409.02104)] [Code]
+- **📝 说明**：动态在线单目重建
+
 #### [5] LapisGS: Layered Progressive 3D Gaussian Splatting for Adaptive Streaming
 - **🧑‍🔬 作者**：Yuang Shi, Simone Gasparini, Géraldine Morin, Wei Tsang Ooi
 - **🏫 单位**：National University of Singapore ⟐ IRIT - University of Toulouse
