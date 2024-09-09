@@ -172,7 +172,7 @@
 #### [94] Motion-aware 3D Gaussian Splatting for Efficient Dynamic Scene Reconstruction
 - **🧑‍🔬 作者**：Zhiyang Guo, Wengang Zhou, Li Li, Min Wang, Houqiang Li
 - **🏫 单位**：University of Science and Technology of China ⟐ Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
-- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2403.11447.md)] [[arXiv:2403.11447](https://arxiv.org/abs/2403.11447)] [Code]
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2403.11447.md)] [[arXiv:2403.11447](https://arxiv.org/abs/2403.11447)] [[Code](https://github.com/jasongzy/MAGS)]
 - **📝 说明**：🚨多视图动态重建;光流
 
 #### [74] ManiGaussian: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation
