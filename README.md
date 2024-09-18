@@ -11,7 +11,7 @@
 - **🧑‍🔬 作者**：Mahmud A. Mohamad, Gamal Elghazaly, Arthur Hubert, Raphael Frank
 - **🏫 单位**：SnT- Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2409.10041.md)] [[arXiv:2409.10041](https://arxiv.org/abs/2409.10041)] [[Code](https://github.com/sntubix/denser)]
-- **📝 说明**：
+- **📝 说明**：城市重建
 
 #### [19] SwinGS: Sliding Window Gaussian Splatting for Volumetric Video Streaming with Arbitrary Length
 - **🧑‍🔬 作者**：Bangya Liu, Suman Banerjee
@@ -297,7 +297,7 @@
 - **🧑‍🔬 作者**：Marko Mihajlovic, Sergey Prokudin, Siyu Tang, Robert Maier, Federica Bogo, Tony Tung, Edmond Boyer
 - **🏫 单位**：ETH Zurich ⟐ Meta Reality Labs ⟐ Balgrist University Hospital
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2409.11211.md)] [[arXiv:2409.11211](https://arxiv.org/abs/2409.11211)] [[Code](https://github.com/markomih/SplatFields)]
-- **📝 说明**：🏆 Accepted to ECCV 2024
+- **📝 说明**：🏆 Accepted to ECCV 2024;稀疏(10视角)重建
 
 #### [13] DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Agelos Kratimenos, Jiahui Lei, Kostas Daniilidis
