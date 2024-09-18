@@ -7,6 +7,18 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2024)]
 
+#### [8] DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments
+- **🧑‍🔬 作者**：Mahmud A. Mohamad, Gamal Elghazaly, Arthur Hubert, Raphael Frank
+- **🏫 单位**：SnT- Interdisciplinary Centre for Security, Reliability and Trust, University of Luxembourg
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2409.10041.md)] [[arXiv:2409.10041](https://arxiv.org/abs/2409.10041)] [[Code](https://github.com/sntubix/denser)]
+- **📝 说明**：
+
+#### [19] SwinGS: Sliding Window Gaussian Splatting for Volumetric Video Streaming with Arbitrary Length
+- **🧑‍🔬 作者**：Bangya Liu, Suman Banerjee
+- **🏫 单位**：University of Wisconsin-Madison 
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2409.07759.md)] [[arXiv:2409.07759](https://arxiv.org/abs/2409.07759)] [Code]
+- **📝 说明**：在线重建
+
 #### [1] DynOMo: Online Point Tracking by Dynamic Online Monocular Gaussian Reconstruction
 - **🧑‍🔬 作者**：Jenny Seidenschwarz, Qunjie Zhou, Bardienus Duisterhof, Deva Ramanan, Laura Leal-Taixé
 - **🏫 单位**：Technical University of Munich ⟐ Carnegie Mellon University ⟐ NVIDIA
@@ -281,11 +293,17 @@
 
 ## ECCV 2024
 
+#### [3] SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction
+- **🧑‍🔬 作者**：Marko Mihajlovic, Sergey Prokudin, Siyu Tang, Robert Maier, Federica Bogo, Tony Tung, Edmond Boyer
+- **🏫 单位**：ETH Zurich ⟐ Meta Reality Labs ⟐ Balgrist University Hospital
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2409.11211.md)] [[arXiv:2409.11211](https://arxiv.org/abs/2409.11211)] [[Code](https://github.com/markomih/SplatFields)]
+- **📝 说明**：🏆 Accepted to ECCV 2024
+
 #### [13] DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Agelos Kratimenos, Jiahui Lei, Kostas Daniilidis
 - **🏫 单位**：University of Pennsylvania
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2312.00112.md)] [[arXiv:2312.00112](https://arxiv.org/abs/2312.00112)] [[Code](https://github.com/agelosk/dynmf)]
-- **📝 说明**：🚨多视图动态重建;分解为少量神经轨迹
+- **📝 说明**：🚨多视图动态重建;🏆 Accepted to ECCV 2024;分解为少量神经轨迹
 
 #### [23] Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Jeongmin Bae, Seoha Kim, Youngsik Yun, Hahyun Lee, Gun Bang, Youngjung Uh
