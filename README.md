@@ -332,7 +332,7 @@
 #### [58] 4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes
 - **🧑‍🔬 作者**：Yuanxing Duan, Fangyin Wei, Qiyu Dai, Yuhang He, Wenzheng Chen, Baoquan Chen
 - **🏫 单位**：Peking University ⟐ Princeton University ⟐ NVIDIA ⟐ National Key Lab of General AI, China
-- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2402.03307.md)] [[arXiv:2402.03307](https://arxiv.org/abs/2402.03307)] [Code]
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2402.03307.md)] [[arXiv:2402.03307](https://arxiv.org/abs/2402.03307)] [[Code](https://github.com/weify627/4D-Rotor-Gaussians)]
 - **📝 说明**：🚨多视图动态重建;🏆 Accepted to SIGGRAPH 2024;4D XYZT高斯函数
 
 #### [5] GaussianPrediction: Dynamic 3D Gaussian Prediction for Motion Extrapolation and Free View Synthesis
