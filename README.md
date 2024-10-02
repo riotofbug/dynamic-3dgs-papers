@@ -10,7 +10,7 @@
 #### [10] Space-time 2D Gaussian Splatting for Accurate Surface Reconstruction under Complex Dynamic Scenes
 - **🧑‍🔬 作者**：Shuo Wang, Binbin Huang, Ruoyu Wang, Shenghua Gao
 - **🏫 单位**：ShanghaiTech University ⟐ The University of Hong Kong
-- **🔗 链接**：[[中英摘要]([https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2409.18852.md)] [[arXiv:2409.18852](https://arxiv.org/abs/2409.18852)] [[Code](https://github.com/tb2-sy/st-2dgs)]
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2409.18852.md)] [[arXiv:2409.18852](https://arxiv.org/abs/2409.18852)] [[Code](https://github.com/tb2-sy/st-2dgs)]
 - **📝 说明**：
 
 #### [8] DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments
