@@ -1,6 +1,7 @@
 # dynamic-3dgs-papers
 
-**⚡ 快捷链接**: [[CVPR](#CVPR-2024)]
+**⚡ 快捷链接**: [[NeurIPS](#NeurIPS-2024)]
+                 [[CVPR](#CVPR-2024)]
                  [[ECCV](#ECCV-2024)]
                  [[ICLR](#ICLR-2024)]
                  [[MICCAI](#MICCAI-2024)]
@@ -240,6 +241,14 @@
 - **🏫 单位**：Carnegie Mellon University ⟐ RWTH Aachen University ⟐ Inria & Universite C´ ote d’Azur
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2308.09713.md)] [[arXiv:2308.09713](https://arxiv.org/abs/2308.09713)] [[Code](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
 - **📝 说明**：🚨多视图动态重建;🏆 Accepted to 3DV 2024;允许高斯分布随时间移动和旋转
+
+## NeurIPS 2024
+
+#### [21] MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Ruijie Zhu, Yanzhe Liang, Hanzhi Chang, Jiacheng Deng, Jiahao Lu, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang
+- **🏫 单位**：University of Science and Technology of China
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2410.07707.md)] [[arXiv:2410.07707](https://arxiv.org/abs/2410.07707)] [Code]
+- **📝 说明**：🏆 Accepted to NeurIPS 2024
 
 ## CVPR 2024
 
