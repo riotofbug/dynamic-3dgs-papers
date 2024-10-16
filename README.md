@@ -12,7 +12,7 @@
 - **🧑‍🔬 作者**：Shuo Wang, Binbin Huang, Ruoyu Wang, Shenghua Gao
 - **🏫 单位**：ShanghaiTech University ⟐ The University of Hong Kong
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2409.18852.md)] [[arXiv:2409.18852](https://arxiv.org/abs/2409.18852)] [[Code](https://github.com/tb2-sy/st-2dgs)]
-- **📝 说明**：
+- **📝 说明**：稀疏或单视角
 
 #### [8] DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments
 - **🧑‍🔬 作者**：Mahmud A. Mohamad, Gamal Elghazaly, Arthur Hubert, Raphael Frank
@@ -247,8 +247,8 @@
 #### [21] MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Ruijie Zhu, Yanzhe Liang, Hanzhi Chang, Jiacheng Deng, Jiahao Lu, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang
 - **🏫 单位**：University of Science and Technology of China
-- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2410.07707.md)] [[arXiv:2410.07707](https://arxiv.org/abs/2410.07707)] [Code]
-- **📝 说明**：🏆 Accepted to NeurIPS 2024
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2410.07707.md)] [[arXiv:2410.07707](https://arxiv.org/abs/2410.07707)] [[Code](https://ruijiezhu94.github.io/MotionGS_page/)]
+- **📝 说明**：🏆 Accepted to NeurIPS 2024;单目;光流
 
 ## CVPR 2024
 
