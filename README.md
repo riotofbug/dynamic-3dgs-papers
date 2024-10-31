@@ -8,6 +8,30 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2024)]
 
+#### [5] FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives
+- **🧑‍🔬 作者**：Qizhi Chen, Delin Qu, Yiwen Tang, Haoming Song, Yiting Zhang, Dong Wang, Bin Zhao, Xuelong Li
+- **🏫 单位**：Zhejiang University ⟐ Shanghai AI Laboratory ⟐ Fudan University ⟐ Northwestern Polytechnical University
+- **🔗 链接**：[[中英摘要](./abs/2410.22070.md)] [[arXiv:2410.22070](https://arxiv.org/abs/2410.22070)] [[Code](https://github.com/freegaussian/freegaussian.github.io)]
+- **📝 说明**：光流
+
+#### [14] Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling
+- **🧑‍🔬 作者**：Mingtong Zhang, Kaifeng Zhang, Yunzhu Li
+- **🏫 单位**：University of Illinois Urbana-Champaign ⟐ Columbia University
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2410.18912.md)] [[arXiv:2410.18912](https://arxiv.org/abs/2410.18912)] [[Code](https://github.com/robo-alex/gs-dynamics)]
+- **📝 说明**：🏆 Accepted to CoRL 2024; 机器人;图神经网络
+
+#### [18] SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes
+- **🧑‍🔬 作者**：Cheng-De Fan, Chen-Wei Chang, Yi-Ruei Liu, Jie-Ying Lee, Jiun-Long Huang, Yu-Chee Tseng, Yu-Lun Liu
+- **🏫 单位**：National Yang Ming Chiao Tung University ⟐ University of Illinois Urbana-Champaign
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2410.17249.md)] [[arXiv:2410.17249](https://arxiv.org/abs/2410.17249)] [Code]
+- **📝 说明**：动态镜面场景
+        
+#### [27] MEGA: Memory-Efficient 4D Gaussian Splatting for Dynamic Scenes
+- **🧑‍🔬 作者**：Xinjie Zhang, Zhening Liu, Yifan Zhang, Xingtong Ge, Dailan He, Tongda Xu, Yan Wang, Zehong Lin, Shuicheng Yan, Jun Zhang
+- **🏫 单位**：The Hong Kong University of Science and Technology ⟐ Skywork AI ⟐ The Chinese University of Hong Kong ⟐ Tsinghua University
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2410.13613.md)] [[arXiv:2410.13613](https://arxiv.org/abs/2410.13613)] [Code]
+- **📝 说明**：针对4d-gs的压缩
+
 #### [10] Space-time 2D Gaussian Splatting for Accurate Surface Reconstruction under Complex Dynamic Scenes
 - **🧑‍🔬 作者**：Shuo Wang, Binbin Huang, Ruoyu Wang, Shenghua Gao
 - **🏫 单位**：ShanghaiTech University ⟐ The University of Hong Kong
@@ -243,6 +267,12 @@
 - **📝 说明**：🚨多视图动态重建;🏆 Accepted to 3DV 2024;允许高斯分布随时间移动和旋转
 
 ## NeurIPS 2024
+
+#### [9] Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting
+- **🧑‍🔬 作者**：Jiawei Xu, Zexin Fan, Jian Yang, Jin Xie
+- **🏫 单位**：PCA Lab, VCIP, College of Computer Science, Nankai University ⟐ State Key Laboratory for Novel Software Technology, Nanjing University, Nanjing, China ⟐ School of Intelligence Science and Technology, Nanjing University, Suzhou, China
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2410.20815.md)] [[arXiv:2410.20815](https://arxiv.org/abs/2410.20815)] [[Code](https://github.com/JiaweiXu8/Grid4D)]
+- **📝 说明**：🚨多视图动态重建;🏆 Accepted to NeurIPS 2024;hash;注意力
 
 #### [21] MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Ruijie Zhu, Yanzhe Liang, Hanzhi Chang, Jiacheng Deng, Jiahao Lu, Wenfei Yang, Tianzhu Zhang, Yongdong Zhang
