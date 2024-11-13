@@ -283,13 +283,13 @@
 #### [14] DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering
 - **🧑‍🔬 作者**：Jiahao Lu, Jiacheng Deng, Ruijie Zhu, Yanzhe Liang, Wenfei Yang, Tianzhu Zhang, Xu Zhou
 - **🏫 单位**：University of Science and Technology of China ⟐ Deep Space Exploration Lab ⟐ Sangfor Technologies Inc
-- **🔗 链接**：[[中英摘要](./abs/2410.13607.md)] [[arXiv:2410.13607](https://arxiv.org/abs/2410.13607)] [Code]
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2410.13607.md)] [[arXiv:2410.13607](https://arxiv.org/abs/2410.13607)] [Code]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
 #### [16] Fully Explicit Dynamic Gaussian Splatting
 - **🧑‍🔬 作者**：Junoh Lee, Chang-Yeon Won, Hyunjun Jung, Inhwan Bae, Hae-Gon Jeon
 - **🏫 单位**：School of Electrical Engineering and Computer Science ⟐ AI Graduate School
-- **🔗 链接**：[[中英摘要](./abs/2410.15629.md)] [[arXiv:2410.15629](https://arxiv.org/abs/2410.15629)] [Code]
+- **🔗 链接**：[[中英摘要]([.](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d)/abs/2410.15629.md)] [[arXiv:2410.15629](https://arxiv.org/abs/2410.15629)] [Code]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
 ## CVPR 2024
