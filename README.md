@@ -7,11 +7,16 @@
                  [[MICCAI](#MICCAI-2024)]
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2024)]
+#### [1] Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction
+- **🧑‍🔬 作者**：Decai Chen, Brianne Oberson, Ingo Feldmann, Oliver Schreer, Anna Hilsmann, Peter Eisert
+- **🏫 单位**：Fraunhofer HHI ⟐ Humboldt University of Berlin ⟐ Technical University of Berlin
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2411.06602.md)] [[arXiv:2411.06602](https://arxiv.org/abs/2411.06602)] [[Code](https://fraunhoferhhi.github.io/AT-GS/)]
+- **📝 说明**：
 
 #### [5] FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives
 - **🧑‍🔬 作者**：Qizhi Chen, Delin Qu, Yiwen Tang, Haoming Song, Yiting Zhang, Dong Wang, Bin Zhao, Xuelong Li
 - **🏫 单位**：Zhejiang University ⟐ Shanghai AI Laboratory ⟐ Fudan University ⟐ Northwestern Polytechnical University
-- **🔗 链接**：[[中英摘要](./abs/2410.22070.md)] [[arXiv:2410.22070](https://arxiv.org/abs/2410.22070)] [[Code](https://github.com/freegaussian/freegaussian.github.io)]
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2410.22070.md)] [[arXiv:2410.22070](https://arxiv.org/abs/2410.22070)] [[Code](https://github.com/freegaussian/freegaussian.github.io)]
 - **📝 说明**：光流
 
 #### [14] Dynamic 3D Gaussian Tracking for Graph-Based Neural Dynamics Modeling
