@@ -273,6 +273,12 @@
 
 ## NeurIPS 2024
 
+#### [1] 4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization
+- **🧑‍🔬 作者**：Mijeong Kim, Jongwoo Lim, Bohyung Han
+- **🏫 单位**：ECE ⟐ ME ⟐ IPAI, Seoul National University, South Korea
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2411.08879.md)] [[arXiv:2411.08879](https://arxiv.org/abs/2411.08879)] [Code]
+- **📝 说明**：🏆 Accepted to NeurIPS 2024
+
 #### [9] Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting
 - **🧑‍🔬 作者**：Jiawei Xu, Zexin Fan, Jian Yang, Jin Xie
 - **🏫 单位**：PCA Lab, VCIP, College of Computer Science, Nankai University ⟐ State Key Laboratory for Novel Software Technology, Nanjing University, Nanjing, China ⟐ School of Intelligence Science and Technology, Nanjing University, Suzhou, China
