@@ -7,6 +7,18 @@
                  [[MICCAI](#MICCAI-2024)]
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2024)]
+#### [3] Event-boosted Deformable 3D Gaussians for Fast Dynamic Scene Reconstruction
+- **🧑‍🔬 作者**：Wenhao Xu, Wenming Weng, Yueyi Zhang, Ruikang Xu, Zhiwei Xiong
+- **🏫 单位**：University of Science and Technology of China
+- **🔗 链接**：[[中英摘要](./abs/2411.16180.md)] [[arXiv:2411.16180](https://arxiv.org/abs/2411.16180)] [Code]
+- **📝 说明**：
+
+#### [9] EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting
+- **🧑‍🔬 作者**：Xiaobao Wei, Qingpo Wuwu, Zhongyu Zhao, Zhuangzhe Wu, Nan Huang, Ming Lu, Ningning MA, Shanghang Zhang
+- **🏫 单位**：Peking University ⟐ Autonomous Driving Development, NIO
+- **🔗 链接**：[[中英摘要](./abs/2411.15582.md)] [[arXiv:2411.15582](https://arxiv.org/abs/2411.15582)] [[Code](https://qingpowuwu.github.io/emdgaussian.github.io/)]
+- **📝 说明**：
+
 #### [2] Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction
 - **🧑‍🔬 作者**：Zhening Liu, Yingdong Hu, Xinjie Zhang, Jiawei Shao, Zehong Lin, Jun Zhang
 - **🏫 单位**：Hong Kong University of Science and Technology ⟐ Institute of Artificial Intelligence (TeleAI), China Telecom
