@@ -10,13 +10,13 @@
 #### [3] Event-boosted Deformable 3D Gaussians for Fast Dynamic Scene Reconstruction
 - **🧑‍🔬 作者**：Wenhao Xu, Wenming Weng, Yueyi Zhang, Ruikang Xu, Zhiwei Xiong
 - **🏫 单位**：University of Science and Technology of China
-- **🔗 链接**：[[中英摘要](./abs/2411.16180.md)] [[arXiv:2411.16180](https://arxiv.org/abs/2411.16180)] [Code]
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2411.16180.md)] [[arXiv:2411.16180](https://arxiv.org/abs/2411.16180)] [Code]
 - **📝 说明**：
 
 #### [9] EMD: Explicit Motion Modeling for High-Quality Street Gaussian Splatting
 - **🧑‍🔬 作者**：Xiaobao Wei, Qingpo Wuwu, Zhongyu Zhao, Zhuangzhe Wu, Nan Huang, Ming Lu, Ningning MA, Shanghang Zhang
 - **🏫 单位**：Peking University ⟐ Autonomous Driving Development, NIO
-- **🔗 链接**：[[中英摘要](./abs/2411.15582.md)] [[arXiv:2411.15582](https://arxiv.org/abs/2411.15582)] [[Code](https://qingpowuwu.github.io/emdgaussian.github.io/)]
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2411.15582.md)] [[arXiv:2411.15582](https://arxiv.org/abs/2411.15582)] [[Code](https://qingpowuwu.github.io/emdgaussian.github.io/)]
 - **📝 说明**：
 
 #### [2] Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction
