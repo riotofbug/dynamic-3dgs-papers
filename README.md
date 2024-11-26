@@ -7,6 +7,30 @@
                  [[MICCAI](#MICCAI-2024)]
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2024)]
+#### [2] Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction
+- **🧑‍🔬 作者**：Zhening Liu, Yingdong Hu, Xinjie Zhang, Jiawei Shao, Zehong Lin, Jun Zhang
+- **🏫 单位**：Hong Kong University of Science and Technology ⟐ Institute of Artificial Intelligence (TeleAI), China Telecom
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2411.14847.md)] [[arXiv:2411.14847](https://arxiv.org/abs/2411.14847)] [[Code](https://github.com/LIUZhening111/DASS)]
+- **📝 说明**：
+
+#### [18] TimeFormer: Capturing Temporal Relationships of Deformable 3D Gaussians for Robust Reconstruction
+- **🧑‍🔬 作者**：DaDong Jiang, Zhihui Ke, Xiaobo Zhou, Zhi Hou, Xianghui Yang, Wenbo Hu, Tie Qiu, Chunchao Guo
+- **🏫 单位**：Tianjin University ⟐ Shanghai Artificial Intelligence Laboratory ⟐ Tencent Hunyuan ⟐ Tencent AI Lab
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2411.11941.md)] [[arXiv:2411.11941](https://arxiv.org/abs/2411.11941)] [Code]
+- **📝 说明**：
+                
+#### [19] DeSiRe-GS: 4D Street Gaussians for Static-Dynamic Decomposition and Surface Reconstruction for Urban Driving Scenes
+- **🧑‍🔬 作者**：Chensheng Peng, Chengwei Zhang, Yixiao Wang, Chenfeng Xu, Yichen Xie, Wenzhao Zheng, Kurt Keutzer, Masayoshi Tomizuka, Wei Zhan
+- **🏫 单位**：UC Berkeley
+- **🔗 链接**：[[中英摘要](./abs/2411.11921.md)] [[arXiv:2411.11921](https://arxiv.org/abs/2411.11921)] [[Code](https://github.com/chengweialan/DeSiRe-GS)]
+- **📝 说明**：
+
+#### [24] DGS-SLAM: Gaussian Splatting SLAM in Dynamic Environment
+- **🧑‍🔬 作者**：Mangyu Kong, Jaewon Lee, Seongwon Lee, Euntai Kim
+- **🏫 单位**：Yonsei University ⟐ Kookmin University
+- **🔗 链接**：[[中英摘要](./abs/2411.10722.md)] [[arXiv:2411.10722](https://arxiv.org/abs/2411.10722)] [Code]
+- **📝 说明**：
+
 #### [1] Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction
 - **🧑‍🔬 作者**：Decai Chen, Brianne Oberson, Ingo Feldmann, Oliver Schreer, Anna Hilsmann, Peter Eisert
 - **🏫 单位**：Fraunhofer HHI ⟐ Humboldt University of Berlin ⟐ Technical University of Berlin
