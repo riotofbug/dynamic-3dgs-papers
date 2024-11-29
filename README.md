@@ -7,6 +7,13 @@
                  [[MICCAI](#MICCAI-2024)]
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2024)]
+
+#### [13] 4D Scaffold Gaussian Splatting for Memory Efficient Dynamic Scene Reconstruction
+- **🧑‍🔬 作者**：Woong Oh Cho, In Cho, Seoha Kim, Jeongmin Bae, Youngjung Uh, Seon Joo Kim
+- **🏫 单位**：Yonsei University
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2411.17044.md)] [[arXiv:2411.17044](https://arxiv.org/abs/2411.17044)] [Code]
+- **📝 说明**：
+
 #### [3] Event-boosted Deformable 3D Gaussians for Fast Dynamic Scene Reconstruction
 - **🧑‍🔬 作者**：Wenhao Xu, Wenming Weng, Yueyi Zhang, Ruikang Xu, Zhiwei Xiong
 - **🏫 单位**：University of Science and Technology of China
