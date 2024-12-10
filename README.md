@@ -12,7 +12,7 @@
 #### [1] Temporally Compressed 3D Gaussian Splatting for Dynamic Scenes
 - **🧑‍🔬 作者**：Saqib Javed, Ahmad Jarrar Khan, Corentin Dumery, Chen Zhao, Mathieu Salzmann
 - **🏫 单位**：EPFL ⟐ Swiss Data Science Center
-- **🔗 链接**：[[中英摘要](./abs/2412.05700.md)] [[arXiv:2412.05700](https://arxiv.org/abs/2412.05700)] [Code]
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2412.05700.md)] [[arXiv:2412.05700](https://arxiv.org/abs/2412.05700)] [Code]
 - **📝 说明**：
 
 #### [2] Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps
@@ -350,7 +350,7 @@
 #### [1] Template-free Articulated Gaussian Splatting for Real-time Reposable Dynamic View Synthesis
 - **🧑‍🔬 作者**：Diwen Wan, Yuxiang Wang, Ruijie Lu, Gang Zeng
 - **🏫 单位**：National Key Laboratory of General Artificial Intelligence, School of IST, Peking University, China
-- **🔗 链接**：[[中英摘要](./abs/2412.05570.md)] [[arXiv:2412.05570](https://arxiv.org/abs/2412.05570)] [[Code](https://github.com/dnvtmf/SK_GS)]
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2412.05570.md)] [[arXiv:2412.05570](https://arxiv.org/abs/2412.05570)] [[Code](https://github.com/dnvtmf/SK_GS)]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
 #### [1] QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos
