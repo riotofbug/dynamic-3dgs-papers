@@ -8,6 +8,31 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2024)]
 
+
+#### [2] Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps
+- **🧑‍🔬 作者**：Yiqing Liang, Mikhail Okunev, Mikaela Angelina Uy, Runfeng Li, Leonidas Guibas, James Tompkin, Adam W. Harley
+- **🏫 单位**：Brown University ⟐ Stanford University ⟐ NVIDIA
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2412.04457.md)] [[arXiv:2412.04457](https://arxiv.org/abs/2412.04457)] [Code]
+- **📝 说明**：
+
+#### [5] DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction
+- **🧑‍🔬 作者**：Xuesong Li, Jinguang Tong, Jie Hong, Vivien Rolland, Lars Petersson
+- **🏫 单位**：Australian National University ⟐ CSIRO, Australia ⟐ The University of Hong Kong
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2412.03910.md)] [[arXiv:2412.03910](https://arxiv.org/abs/2412.03910)] [Code]
+- **📝 说明**：
+
+#### [7] Urban4D: Semantic-Guided 4D Gaussian Splatting for Urban Scene Reconstruction
+- **🧑‍🔬 作者**：Ziwen Li, Jiaxin Huang, Runnan Chen, Yunlong Che, Yandong Guo, Tongliang Liu, Fakhri Karray, Mingming Gong
+- **🏫 单位**：
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2412.03473.md)] [[arXiv:2412.03473](https://arxiv.org/abs/2412.03473)] [Code]
+- **📝 说明**：
+
+#### [13] RoDyGS: Robust Dynamic Gaussian Splatting for Casual Videos
+- **🧑‍🔬 作者**：Yoonwoo Jeong, Junmyeong Lee, Hoseung Choi, Minsu Cho
+- **🏫 单位**：POSTECH
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2412.03077.md)] [[arXiv:2412.03077](https://arxiv.org/abs/2412.03077)] [Code]
+- **📝 说明**：
+
 #### [13] 4D Scaffold Gaussian Splatting for Memory Efficient Dynamic Scene Reconstruction
 - **🧑‍🔬 作者**：Woong Oh Cho, In Cho, Seoha Kim, Jeongmin Bae, Youngjung Uh, Seon Joo Kim
 - **🏫 单位**：Yonsei University
@@ -315,6 +340,12 @@
 - **📝 说明**：🚨多视图动态重建;🏆 Accepted to 3DV 2024;允许高斯分布随时间移动和旋转
 
 ## NeurIPS 2024
+
+#### [1] QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos
+- **🧑‍🔬 作者**：Sharath Girish, Tianye Li, Amrita Mazumdar, Abhinav Shrivastava, David Luebke, Shalini De Mello
+- **🏫 单位**：University of Maryland ⟐ NVIDIA
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2412.04469.md)] [[arXiv:2412.04469](https://arxiv.org/abs/2412.04469)] [Code]
+- **📝 说明**：🏆 Accepted to NeurIPS 2024
 
 #### [1] 4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization
 - **🧑‍🔬 作者**：Mijeong Kim, Jongwoo Lim, Bohyung Han
