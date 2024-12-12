@@ -8,6 +8,17 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2024)]
 
+#### [10] Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video
+- **🧑‍🔬 作者**：Renlong Wu, Zhilu Zhang, Mingyang Chen, Xiaopeng Fan, Zifei Yan, Wangmeng Zuo
+- **🏫 单位**：Harbin Institute of Technology
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2412.06424.md)] [[arXiv:2412.06424](https://arxiv.org/abs/2412.06424)] [[Code](https://github.com/ZcsrenlongZ/Deblur4DGS)]
+- **📝 说明**：
+
+#### [11] 4D Gaussian Splatting with Scale-aware Residual Field and Adaptive Optimization for Real-time Rendering of Temporally Complex Dynamic Scenes
+- **🧑‍🔬 作者**：Jinbo Yan, Rui Peng, Luyang Tang, Ronggang Wang
+- **🏫 单位**：Peking University ⟐ Pengcheng Laboratory
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2412.06299.md)] [[arXiv:2412.06299](https://arxiv.org/abs/2412.06299)] [[Code](https://github.com/yjb6/SaRO-GS)]
+- **📝 说明**：🏆 Accepted to ACM MM 2024 Best Paper Candidate
 
 #### [1] Temporally Compressed 3D Gaussian Splatting for Dynamic Scenes
 - **🧑‍🔬 作者**：Saqib Javed, Ahmad Jarrar Khan, Corentin Dumery, Chen Zhao, Mathieu Salzmann
