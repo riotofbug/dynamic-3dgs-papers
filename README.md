@@ -8,6 +8,12 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2024)]
 
+#### [7] MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Sangwoon Kwak, Joonsoo Kim, Jun Young Jeong, Won-Sik Cheong, Jihyong Oh, Munchurl Kim
+- **🏫 单位**: ETRI, South Korea ⟐ KAIST, South Korea ⟐ Chung-Ang University, South Korea
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/e9f2d55148c6b89c965b63656a6f91b6006f1f7d/abs/2501.03714.md)] [[arXiv:2501.03714](https://arxiv.org/abs/2501.03714)] [[Code](https://kaist-viclab.github.io/MoDecGS-site/)]
+- **📝 说明**：
+
 #### [10] Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video
 - **🧑‍🔬 作者**：Renlong Wu, Zhilu Zhang, Mingyang Chen, Xiaopeng Fan, Zifei Yan, Wangmeng Zuo
 - **🏫 单位**：Harbin Institute of Technology
