@@ -8,12 +8,6 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2025)]
 
-#### [59] GaussianVideo: Efficient Video Representation via Hierarchical Gaussian Splatting
-- **🧑‍🔬 作者**：Andrew Bond, Jui-Hsien Wang, Long Mai, Erkut Erdem, Aykut Erdem
-- **🏫 单位**：Koç University ⟐ Adobe Research ⟐ Hacettepe University
-- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2501.04782.md)] [[arXiv:2501.04782](https://arxiv.org/abs/2501.04782)] [[Code](https://cyberiada.github.io/GaussianVideo/)]
-- **📝 说明**：
-
 #### [7] MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Sangwoon Kwak, Joonsoo Kim, Jun Young Jeong, Won-Sik Cheong, Jihyong Oh, Munchurl Kim
 - **🏫 单位**: ETRI, South Korea ⟐ KAIST, South Korea ⟐ Chung-Ang University, South Korea
