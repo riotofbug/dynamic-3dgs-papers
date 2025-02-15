@@ -8,12 +8,6 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2025)]
 
-#### [34] GaussianVideo: Efficient Video Representation Through 2D Gaussian Splatting
-- **🧑‍🔬 作者**：Longan Wang, Yuang Shi, Wei Tsang Ooi
-- **🏫 单位**：National University of Singapore
-- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2501.12060.md)] [[arXiv:2501.12060](https://arxiv.org/abs/2501.12060)] [Code]
-- **📝 说明**：
-
 #### [59] GaussianVideo: Efficient Video Representation via Hierarchical Gaussian Splatting
 - **🧑‍🔬 作者**：Andrew Bond, Jui-Hsien Wang, Long Mai, Erkut Erdem, Aykut Erdem
 - **🏫 单位**：Koç University ⟐ Adobe Research ⟐ Hacettepe University
