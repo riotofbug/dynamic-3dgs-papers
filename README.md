@@ -12,7 +12,7 @@
 - **🧑‍🔬 作者**：Sangwoon Kwak, Joonsoo Kim, Jun Young Jeong, Won-Sik Cheong, Jihyong Oh, Munchurl Kim
 - **🏫 单位**: ETRI, South Korea ⟐ KAIST, South Korea ⟐ Chung-Ang University, South Korea
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2501.03714.md)] [[arXiv:2501.03714](https://arxiv.org/abs/2501.03714)] [[Code](https://kaist-viclab.github.io/MoDecGS-site/)]
-- **📝 说明**：
+- **📝 说明**：scaffold-gs; hexplane; 两阶段； 自适应分段
 
 #### [10] Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video
 - **🧑‍🔬 作者**：Renlong Wu, Zhilu Zhang, Mingyang Chen, Xiaopeng Fan, Zifei Yan, Wangmeng Zuo
