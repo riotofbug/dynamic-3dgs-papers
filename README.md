@@ -8,6 +8,12 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2025)]
 
+#### [21] Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling
+- **🧑‍🔬 作者**：Hanyang Kong, Xingyi Yang, Xinchao Wang
+- **🏫 单位**: National University of Singapore
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2501.03714.md)] [[arXiv:2501.03714](https://arxiv.org/abs/2502.20378.md)] [[arXiv:2502.20378](https://arxiv.org/abs/2502.20378)] [Code]
+- **📝 说明**：🏆 Accepted to AAAI 2025
+
 #### [7] MoDec-GS: Global-to-Local Motion Decomposition and Temporal Interval Adjustment for Compact Dynamic 3D Gaussian Splatting
 - **🧑‍🔬 作者**：Sangwoon Kwak, Joonsoo Kim, Jun Young Jeong, Won-Sik Cheong, Jihyong Oh, Munchurl Kim
 - **🏫 单位**: ETRI, South Korea ⟐ KAIST, South Korea ⟐ Chung-Ang University, South Korea
