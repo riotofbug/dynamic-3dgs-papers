@@ -8,6 +8,12 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2025)]
 
+#### [1] GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting
+- **🧑‍🔬 作者**：Inseo Lee, Youngyoon Choi, Joonseok Lee
+- **🏫 单位**:  Seoul National University
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2503.04333.md)] [[arXiv:2503.04333](https://arxiv.org/abs/2503.04333)] [Code]
+- **📝 说明**：
+
 #### [21] Efficient Gaussian Splatting for Monocular Dynamic Scene Rendering via Sparse Time-Variant Attribute Modeling
 - **🧑‍🔬 作者**：Hanyang Kong, Xingyi Yang, Xinchao Wang
 - **🏫 单位**: National University of Singapore
