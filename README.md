@@ -8,6 +8,7 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2025)]
 
+
 #### [1] GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting
 - **🧑‍🔬 作者**：Inseo Lee, Youngyoon Choi, Joonseok Lee
 - **🏫 单位**:  Seoul National University
@@ -343,6 +344,12 @@
 - **🏫 单位**：Peking University
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2406.03697.md)] [[arXiv:2406.03697](https://arxiv.org/abs/2406.03697)] [[Code](https://github.com/dnvtmf/SP_GS)]
 - **📝 说明**：🚨多视图动态重建; 🏆 Accepted to ICML 2024; 将具有类似属性（例如，旋转、平移和位置）的高斯聚集到超点
+
+#### [1] SWinGS: Sliding Windows for Dynamic 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Richard Shaw, Michal Nazarczuk, Jifei Song, Arthur Moreau, Sibi Catley-Chandar, Helisa Dhamo, Eduardo Perez-Pellitero
+- **🏫 单位**:   Huawei Noah’s Ark Lab ⟐ Queen Mary University Of London
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2312.13308.md)] [[arXiv:2312.13308](https://arxiv.org/abs/2312.13308)] [Code]
+- **📝 说明**：
 
 #### [1] Dynamic 3d gaussians: Tracking by persistent dynamic view synthesis
 - **🧑‍🔬 作者**：Jonathon Luiten, Georgios Kopanas, Bastian Leibe, Deva Ramanan
