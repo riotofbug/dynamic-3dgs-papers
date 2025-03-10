@@ -8,6 +8,17 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2025)]
 
+#### [1] D2GV: Deformable 2D Gaussian Splatting for Video Representation in 400FPS
+- **🧑‍🔬 作者**：Mufan Liu, Qi Yang, Miaoran Zhao, He Huang, Le Yang, Zhu Li, Yiling Xu
+- **🏫 单位**: Shanghai Jiao Tong University ⟐ University of Missouri, Kansas City ⟐ University of Canterbury
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2503.05600.md)] [[arXiv:2503.05600](https://arxiv.org/abs/2503.05600)] [[Code](https://github.com/Evan-sudo/D2GV)]
+- **📝 说明**：
+
+#### [11] EvolvingGS: High-Fidelity Streamable Volumetric Video via Evolving 3D Gaussian Representation
+- **🧑‍🔬 作者**：Chao Zhang, Yifeng Zhou, Shuheng Wang, Wenfa Li, Degang Wang, Yi Xu, Shaohui Jiao
+- **🏫 单位**: Bytedance
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2503.05162.md)] [[arXiv:2503.05162](https://arxiv.org/abs/2503.05162)] [Code]
+- **📝 说明**：
 
 #### [1] GaussianVideo: Efficient Video Representation and Compression by Gaussian Splatting
 - **🧑‍🔬 作者**：Inseo Lee, Youngyoon Choi, Joonseok Lee
