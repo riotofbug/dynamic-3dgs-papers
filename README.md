@@ -8,6 +8,24 @@
                  [[SIGGRAPH](#SIGGRAPH-2024)]
                  [[WACV](#WACV-2025)]
 
+#### [3] SDD-4DGS: Static-Dynamic Aware Decoupling in Gaussian Splatting for 4D Scene Reconstruction
+- **🧑‍🔬 作者**：Dai Sun, Huhao Guan, Kun Zhang, Xike Xie, S. Kevin Zhou
+- **🏫 单位**: University of Science and Technology of China
+- **🔗 链接**：[[中英摘要](./abs/2503.09332.md)] [[arXiv:2503.09332](https://arxiv.org/abs/2503.09332)] [Code]
+- **📝 说明**：
+
+#### [4] Motion Blender Gaussian Splatting for Dynamic Reconstruction
+- **🧑‍🔬 作者**：Xinyu Zhang, Haonan Chang, Yuhan Liu, Abdeslam Boularias
+- **🏫 单位**: Department of Computer Science, Rutgers University
+- **🔗 链接**：[[中英摘要](./abs/2503.09040.md)] [[arXiv:2503.09040](https://arxiv.org/abs/2503.09040)] [Code]
+- **📝 说明**：
+
+#### [13] 7DGS: Unified Spatial-Temporal-Angular Gaussian Splatting
+- **🧑‍🔬 作者**：Zhongpai Gao, Benjamin Planche, Meng Zheng, Anwesa Choudhuri, Terrence Chen, Ziyan Wu
+- **🏫 单位**: United Imaging Intelligence, Boston MA, USA
+- **🔗 链接**：[[中英摘要](./abs/2503.07946.md)] [[arXiv:2503.07946](https://arxiv.org/abs/2503.07946)] [Code]
+- **📝 说明**：
+
 #### [1] D2GV: Deformable 2D Gaussian Splatting for Video Representation in 400FPS
 - **🧑‍🔬 作者**：Mufan Liu, Qi Yang, Miaoran Zhao, He Huang, Le Yang, Zhu Li, Yiling Xu
 - **🏫 单位**: Shanghai Jiao Tong University ⟐ University of Missouri, Kansas City ⟐ University of Canterbury
