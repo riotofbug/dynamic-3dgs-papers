@@ -1,12 +1,17 @@
 # dynamic-3dgs-papers
 
-**⚡ 快捷链接**: [[NeurIPS](#NeurIPS-2024)]
-                 [[CVPR](#CVPR-2024)]
-                 [[ECCV](#ECCV-2024)]
-                 [[ICLR](#ICLR-2024)]
-                 [[MICCAI](#MICCAI-2024)]
-                 [[SIGGRAPH](#SIGGRAPH-2024)]
-                 [[WACV](#WACV-2025)]
+**⚡ 快捷链接**: [[NeurIPS](#NeurIPS)]
+                 [[CVPR](#CVPR)]
+                 [[ECCV](#ECCV)]
+                 [[ICLR](#ICLR)]
+                 [[SIGGRAPH](#SIGGRAPH)]
+                 [[WACV](#WACV)]
+
+#### [11] DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction
+- **🧑‍🔬 作者**：Rui Wang, Quentin Lohmeyer, Mirko Meboldt, Siyu Tang
+- **🏫 单位**: ETHZurich
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2503.13176.md)] [[arXiv:2503.13176](https://arxiv.org/abs/2503.13176)] [Code]
+- **📝 说明**：
 
 #### [3] SDD-4DGS: Static-Dynamic Aware Decoupling in Gaussian Splatting for 4D Scene Reconstruction
 - **🧑‍🔬 作者**：Dai Sun, Huhao Guan, Kun Zhang, Xike Xie, S. Kevin Zhou
@@ -386,7 +391,7 @@
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2308.09713.md)] [[arXiv:2308.09713](https://arxiv.org/abs/2308.09713)] [[Code](https://github.com/JonathonLuiten/Dynamic3DGaussians)]
 - **📝 说明**：🚨多视图动态重建; 🏆 Accepted to 3DV 2024; 允许高斯分布随时间移动和旋转
 
-## NeurIPS 2024
+## NeurIPS
 
 #### [82] Dynamic 3D Gaussian Fields for Urban Areas
 - **🧑‍🔬 作者**：Tobias Fischer, Jonas Kulhanek, Samuel Rota Bulò, Lorenzo Porzi, Marc Pollefeys, Peter Kontschieder
@@ -436,7 +441,7 @@
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2410.15629.md)] [[arXiv:2410.15629](https://arxiv.org/abs/2410.15629)] [Code]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
-## CVPR 2024
+## CVPR
 
 #### [1] Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields
 - **🧑‍🔬 作者**：Joo Chan Lee, Daniel Rho, Xiangyu Sun, Jong Hwan Ko, Eunbyung Park
@@ -492,7 +497,7 @@
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2404.06270.md)] [[arXiv:2404.06270](https://arxiv.org/abs/2404.06270)] [[Code](https://npucvr.github.io/GaGS/)]
 - **📝 说明**：🚨多视图动态重建; 🏆 Accepted to CVPR 2024; 位置旋转随时间变化; 显式提取3D几何特征
 
-## ECCV 2024
+## ECCV
 
 #### [5] A Compact Dynamic 3D Gaussian Representation for Real-Time Dynamic View Synthesis
 - **🧑‍🔬 作者**：Kai Katsumata, Duc Minh Vo, Hideki Nakayama
@@ -518,7 +523,13 @@
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2404.03613.md)] [[arXiv:2404.03613](https://arxiv.org/abs/2404.03613)] [[Code](https://github.com/JeongminB/E-D3DGS)]
 - **📝 说明**：🚨多视图动态重建; 🏆 Accepted to ECCV 2024; 将变形定义为每个高斯嵌入和时间嵌入以解决静态高斯随附近动态高斯一起运动的问题; 粗变形和细变形，分别模拟慢速和快速运动
 
-## ICLR 2024
+## ICLR
+
+#### [22] Swift4D:Adaptive divide-and-conquer Gaussian Splatting for compact and efficient reconstruction of dynamic scene
+- **🧑‍🔬 作者**：Jiahao Wu, Rui Peng, Zhiyan Wang, Lu Xiao, Luyang Tang, Jinbo Yan, Kaiqiang Xiong, Ronggang Wang
+- **🏫 单位**: Guangdong Provincial Key Laboratory of Ultra High Definition Immersive Media Technology ⟐ Shenzhen Graduate School, Peking University
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2503.12307.md)] [[arXiv:2503.12307](https://arxiv.org/abs/2503.12307)] [[Code](https://github.com/WuJH2001/swift4d)]
+- **📝 说明**：🏆 Accepted by ICLR 2025
 
 #### [2] Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting
 - **🧑‍🔬 作者**：Zeyu Yang, Hongye Yang, Zijie Pan, Xiatian Zhu, Li Zhang
@@ -526,9 +537,9 @@
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2310.10642.md)] [[arXiv:2310.10642](https://arxiv.org/abs/2310.10642)] [[OpenReview](https://openreview.net/forum?id=WhgB5sispV)] [[Code](https://github.com/fudan-zvg/4d-gaussian-splatting)]
 - **📝 说明**：🚨多视图动态重建; 🏆 ICLR 2024 poster; 🌟 OpenReview Ratings: 8, 6, 6; 优化一组4D原语
 
-## MICCAI 2024
+## MICCAI
 
-## SIGGRAPH 2024
+## SIGGRAPH
 
 #### [34] Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos
 - **🧑‍🔬 作者**：Colton Stearns, Adam Harley, Mikaela Uy, Florian Dubost, Federico Tombari, Gordon Wetzstein, Leonidas Guibas
@@ -554,7 +565,7 @@
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2405.19745.md)] [[arXiv:2405.19745](https://arxiv.org/abs/2405.19745)] [[Code](https://github.com/BoMingZhao/GaussianPrediction)]
 - **📝 说明**：🚨多视图动态重建; 🏆 Accepted to SIGGRAPH 2024; 能建模也能预测
 
-## WACV 2025
+## WACV
 
 #### [26] GauFRe: Gaussian Deformation Fields for Real-time Dynamic Novel View Synthesis
 - **🧑‍🔬 作者**：Yiqing Liang, Numair Khan, Zhengqin Li, Thu Nguyen-Phuoc, Douglas Lanman, James Tompkin, Lei Xiao
