@@ -7,6 +7,12 @@
                  [[SIGGRAPH](#SIGGRAPH)]
                  [[WACV](#WACV)]
 
+#### [8] 1000+ FPS 4D Gaussian Splatting for Dynamic Scene Rendering
+- **🧑‍🔬 作者**：Yuheng Yuan, Qiuhong Shen, Xingyi Yang, Xinchao Wang
+- **🏫 单位**: National University of Singapore
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2503.16422.md)] [[arXiv:2503.16422](https://arxiv.org/abs/2503.16422)] [[Code](https://4dgs-1k.github.io/)]
+- **📝 说明**：
+
 #### [11] DeGauss: Dynamic-Static Decomposition with Gaussian Splatting for Distractor-free 3D Reconstruction
 - **🧑‍🔬 作者**：Rui Wang, Quentin Lohmeyer, Mirko Meboldt, Siyu Tang
 - **🏫 单位**: ETHZurich
@@ -442,6 +448,18 @@
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
 ## CVPR
+
+#### [2] Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting
+- **🧑‍🔬 作者**：Jinbo Yan, Rui Peng, Zhiyan Wang, Luyang Tang, Jiayu Yang, Jie Liang, Jiahao Wu, Ronggang Wang
+- **🏫 单位**: Guangdong Provincial Key Laboratory of Ultra High Definition Immersive Media Technology ⟐ Shenzhen Graduate School, Peking University ⟐ Pengcheng Laboratory
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2503.16979.md)] [[arXiv:2503.16979](https://arxiv.org/abs/2503.16979)] [Code]
+- **📝 说明**：🏆 Accepted to CVPR 2025
+
+#### [14] BARD-GS: Blur-Aware Reconstruction of Dynamic Scenes via Gaussian Splatting
+- **🧑‍🔬 作者**：Yiren Lu, Yunlai Zhou, Disheng Liu, Tuo Liang, Yu Yin
+- **🏫 单位**: Case Western Reserve University
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2503.15835.md)] [[arXiv:2503.15835](https://arxiv.org/abs/2503.15835)] [[Code](https://vulab-ai.github.io/BARD-GS/)]
+- **📝 说明**：🏆 Accepted to CVPR 2025; 去模糊
 
 #### [1] Compact 3D Gaussian Splatting for Static and Dynamic Radiance Fields
 - **🧑‍🔬 作者**：Joo Chan Lee, Daniel Rho, Xiangyu Sun, Jong Hwan Ko, Eunbyung Park
