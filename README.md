@@ -449,6 +449,12 @@
 
 ## CVPR
 
+#### [24] 4DGC: Rate-Aware 4D Gaussian Compression for Efficient Streamable Free-Viewpoint Video
+- **🧑‍🔬 作者**：Qiang Hu, Zihan Zheng, Houqiang Zhong, Sihua Fu, Li Song, XiaoyunZhang, Guangtao Zhai, Yanfeng Wang
+- **🏫 单位**: Shanghai Jiao Tong University
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2503.18421.md)] [[arXiv:2503.18421](https://arxiv.org/abs/2503.18421)] [Code]
+- **📝 说明**：🏆 Accepted to CVPR 2025
+
 #### [2] Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting
 - **🧑‍🔬 作者**：Jinbo Yan, Rui Peng, Zhiyan Wang, Luyang Tang, Jiayu Yang, Jie Liang, Jiahao Wu, Ronggang Wang
 - **🏫 单位**: Guangdong Provincial Key Laboratory of Ultra High Definition Immersive Media Technology ⟐ Shenzhen Graduate School, Peking University ⟐ Pengcheng Laboratory
