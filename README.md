@@ -7,6 +7,12 @@
                  [[SIGGRAPH](#SIGGRAPH)]
                  [[WACV](#WACV)]
 
+#### [4] CompGS++: Compressed Gaussian Splatting for Static and Dynamic Scene Representation
+- **🧑‍🔬 作者**：Xiangrui Liu, Xinju Wu, Shiqi Wang, Zhu Li, Sam Kwong
+- **🏫 单位**：City University of Hong Kong ⟐ University of Missouri–Kansas City ⟐ Lingnan University
+- **🔗 链接**：[[中英摘要]([./abs/](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/)2504.13022.md)] [[arXiv:2504.13022](https://arxiv.org/abs/2504.13022)] [Code]
+- **📝 说明**：
+
 #### [8] 1000+ FPS 4D Gaussian Splatting for Dynamic Scene Rendering
 - **🧑‍🔬 作者**：Yuheng Yuan, Qiuhong Shen, Xingyi Yang, Xinchao Wang
 - **🏫 单位**: National University of Singapore
@@ -448,6 +454,12 @@
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
 ## CVPR
+
+#### [41] HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation
+- **🧑‍🔬 作者**：Yiming Liang, Tianhan Xu, Yuta Kikuchi
+- **🏫 单位**：Waseda University ⟐ Preferred Networks, Inc.
+- **🔗 链接**：[[中英摘要]((https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2504.06210.md)] [[arXiv:2504.06210](https://arxiv.org/abs/2504.06210)] [Code]
+- **📝 说明**：🏆 Accepted to CVPR 2025
 
 #### [24] 4DGC: Rate-Aware 4D Gaussian Compression for Efficient Streamable Free-Viewpoint Video
 - **🧑‍🔬 作者**：Qiang Hu, Zihan Zheng, Houqiang Zhong, Sihua Fu, Li Song, XiaoyunZhang, Guangtao Zhai, Yanfeng Wang
