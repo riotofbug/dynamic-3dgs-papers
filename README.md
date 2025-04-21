@@ -458,7 +458,7 @@
 #### [41] HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation
 - **🧑‍🔬 作者**：Yiming Liang, Tianhan Xu, Yuta Kikuchi
 - **🏫 单位**：Waseda University ⟐ Preferred Networks, Inc.
-- **🔗 链接**：[[中英摘要]((https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2504.06210.md)] [[arXiv:2504.06210](https://arxiv.org/abs/2504.06210)] [Code]
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2504.06210.md)] [[arXiv:2504.06210](https://arxiv.org/abs/2504.06210)] [Code]
 - **📝 说明**：🏆 Accepted to CVPR 2025
 
 #### [24] 4DGC: Rate-Aware 4D Gaussian Compression for Efficient Streamable Free-Viewpoint Video
