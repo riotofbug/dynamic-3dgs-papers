@@ -7,10 +7,16 @@
                  [[SIGGRAPH](#SIGGRAPH)]
                  [[WACV](#WACV)]
 
+#### [5] 4DGS-CC: A Contextual Coding Framework for 4D Gaussian Splatting Data Compression
+- **🧑‍🔬 作者**：Zicong Chen, Zhenghao Chen, Wei Jiang, Wei Wang, Lei Liu, Dong Xu
+- **🏫 单位**：Beihang University ⟐ The University of Newcastle, Australia ⟐ Futurewei Technologies Inc,4 The University of Hong Kong
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2504.18925.md)] [[arXiv:2504.18925](https://arxiv.org/abs/2504.18925)] [Code]
+- **📝 说明**: Saro-GS; 4DGS
+
 #### [4] CompGS++: Compressed Gaussian Splatting for Static and Dynamic Scene Representation
 - **🧑‍🔬 作者**：Xiangrui Liu, Xinju Wu, Shiqi Wang, Zhu Li, Sam Kwong
 - **🏫 单位**：City University of Hong Kong ⟐ University of Missouri–Kansas City ⟐ Lingnan University
-- **🔗 链接**：[[中英摘要]([./abs/](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/)2504.13022.md)] [[arXiv:2504.13022](https://arxiv.org/abs/2504.13022)] [Code]
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2504.13022.md)] [[arXiv:2504.13022](https://arxiv.org/abs/2504.13022)] [Code]
 - **📝 说明**：
 
 #### [8] 1000+ FPS 4D Gaussian Splatting for Dynamic Scene Rendering
