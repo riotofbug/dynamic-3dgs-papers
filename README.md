@@ -583,6 +583,12 @@
 
 ## SIGGRAPH
 
+#### [3] Compensating Spatiotemporally Inconsistent Observations for Online Dynamic 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Youngsik Yun, Jeongmin Bae, Hyunseung Son, Seoha Kim, Hahyun Lee, Gun Bang, Youngjung Uh
+- **🏫 单位**：Yonsei University ⟐ Electronics and Telecommunications Research Institute
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2505.01235.md)] [[arXiv:2505.01235](https://arxiv.org/abs/2505.01235)] [[Code](https://bbangsik13.github.io/OR2/)]
+- **📝 说明**: 🏆 Accepted to	SIGGRAPH 2025
+
 #### [34] Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos
 - **🧑‍🔬 作者**：Colton Stearns, Adam Harley, Mikaela Uy, Florian Dubost, Federico Tombari, Gordon Wetzstein, Leonidas Guibas
 - **🏫 单位**：Stanford University ⟐ Google
