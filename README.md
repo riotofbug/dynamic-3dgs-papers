@@ -429,6 +429,12 @@
 - **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2411.08879.md)] [[arXiv:2411.08879](https://arxiv.org/abs/2411.08879)] [Code]
 - **📝 说明**：🏆 Accepted to NeurIPS 2024
 
+#### [63] HiCoM: Hierarchical Coherent Motion for Streamable Dynamic Scene with 3D Gaussian Splatting
+- **🧑‍🔬 作者**：Qiankun Gao, Jiarui Meng, Chengxiang Wen, Jie Chen, Jian Zhang
+- **🏫 单位**：School of Electronic and Computer Engineering, Peking University ⟐ Peng Cheng Laboratory ⟐ Guangdong Provincial Key Laboratory of Ultra High Definition Immersive Media Technology
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2411.07541.md)] [[arXiv:2411.07541](https://arxiv.org/abs/2411.07541)] [[Code](https://github.com/gqk/HiCoM)]
+- **📝 说明**：🚨多视图动态重建; 🏆 Accepted to NeurIPS 2024
+
 #### [9] Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting
 - **🧑‍🔬 作者**：Jiawei Xu, Zexin Fan, Jian Yang, Jin Xie
 - **🏫 单位**：PCA Lab, VCIP, College of Computer Science, Nankai University ⟐ State Key Laboratory for Novel Software Technology, Nanjing University, Nanjing, China ⟐ School of Intelligence Science and Technology, Nanjing University, Suzhou, China
