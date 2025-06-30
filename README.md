@@ -7,6 +7,18 @@
                  [[SIGGRAPH](#SIGGRAPH)]
                  [[WACV](#WACV)]
 
+#### [80] Motion Matters: Compact Gaussian Streaming for Free-Viewpoint Video Reconstruction
+- **🧑‍🔬 作者**：Jiacong Chen, Qingyu Mao, Youneng Bao, Xiandong Meng, Fanyang Meng, Ronggang Wang, Yongsheng Liang
+- **🏫 单位**：Shenzhen University ⟐ Shenzhen Technology University ⟐  City University of Hong Kong ⟐ Peking University
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2505.16533.md)] [[arXiv:2505.16533](https://arxiv.org/abs/2505.16533)] [Code]
+- **📝 说明**:
+
+#### [90] MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction
+- **🧑‍🔬 作者**：Zhenyu Bao, Qing Li, Guibiao Liao, Zhongyuan Zhao, Kanglin Liu
+- **🏫 单位**：Peking University ⟐ Pengcheng Laboratory
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2505.13839.md)] [[arXiv:2505.13839](https://arxiv.org/abs/2505.13839)] [[Code](https://github.com/pcl3dv/MGStream)]
+- **📝 说明**:
+
 #### [5] 4DGS-CC: A Contextual Coding Framework for 4D Gaussian Splatting Data Compression
 - **🧑‍🔬 作者**：Zicong Chen, Zhenghao Chen, Wei Jiang, Wei Wang, Lei Liu, Dong Xu
 - **🏫 单位**：Beihang University ⟐ The University of Newcastle, Australia ⟐ Futurewei Technologies Inc,4 The University of Hong Kong
@@ -466,6 +478,12 @@
 - **📝 说明**：🏆 Accepted to NeurIPS 2024; 动态城市
 
 ## CVPR
+
+#### [5] FreeTimeGS: Free Gaussian Primitives at Anytime and Anywhere for Dynamic Scene Reconstruction
+- **🧑‍🔬 作者**：Yifan Wang, Peishan Yang, Zhen Xu, Jiaming Sun, Zhanhua Zhang, Yong Chen, Hujun Bao, Sida Peng, Xiaowei Zhou
+- **🏫 单位**：Zhejiang University ⟐ Geely Automobile Research Institute
+- **🔗 链接**：[[中英摘要](https://github.com/Awesome3DGS/3D-Gaussian-Splatting-Papers/blob/dev/abs/2506.05348.md)] [[arXiv:2506.05348](https://arxiv.org/abs/2506.05348)] [Code]
+- **📝 说明**: 🏆 Accepted to CVPR 2025
 
 #### [41] HiMoR: Monocular Deformable Gaussian Reconstruction with Hierarchical Motion Representation
 - **🧑‍🔬 作者**：Yiming Liang, Tianhan Xu, Yuta Kikuchi
